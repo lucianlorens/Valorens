@@ -1,0 +1,1405 @@
+;EMPRESA;CONTA;TRIMESTRE;VALOR
+0;ABC Brasil;Receitas da Intermediação Financeira;4T/2017;814,726
+1;ABC Brasil;Despesas da Intermediação Financeira;4T/2017;-662,264
+2;ABC Brasil;Resultado Bruto Intermediação Financeira;4T/2017;152,462
+3;ABC Brasil;Outras Despesas/Receitas Operacionais;4T/2017;-28,155
+4;ABC Brasil;Receitas de Prestação de Serviços;4T/2017;83,697
+5;ABC Brasil;Despesas de Pessoal;4T/2017;-53,46
+6;ABC Brasil;Outras Despesas Administrativas;4T/2017;-28,278
+7;ABC Brasil;Despesas Tributárias;4T/2017;-16,255
+8;ABC Brasil;Outras Receitas Operacionais;4T/2017;-37,284
+9;ABC Brasil;Outras Despesas Operacionais;4T/2017;21,158
+10;ABC Brasil;Resultado da Equivalência Patrimonial;4T/2017;2,267
+11;ABC Brasil;Resultado Operacional;4T/2017;124,307
+12;ABC Brasil;Resultado Não Operacional;4T/2017;-8,127
+13;ABC Brasil;Receitas;4T/2017;-13,887
+14;ABC Brasil;Despesas;4T/2017;42,656
+15;ABC Brasil;Resultado Antes Tributação/Participações;4T/2017;116,18
+16;ABC Brasil;Provisão para IR e Contribuição Social;4T/2017;27,27
+17;ABC Brasil;IR Diferido;4T/2017;0
+18;ABC Brasil;Participações/Contribuições Estatutárias;4T/2017;-32,845
+19;ABC Brasil;Reversão dos Juros sobre Capital Próprio;4T/2017;0
+20;ABC Brasil;Part. de Acionistas Não Controladores;4T/2017;0
+21;ABC Brasil;Lucro/Prejuízo do Período;4T/2017;110,605
+22;ABC Brasil;Receitas da Intermediação Financeira;3T/2017;372,964
+23;ABC Brasil;Despesas da Intermediação Financeira;3T/2017;-178,605
+24;ABC Brasil;Resultado Bruto Intermediação Financeira;3T/2017;194,359
+25;ABC Brasil;Outras Despesas/Receitas Operacionais;3T/2017;-12,163
+26;ABC Brasil;Receitas de Prestação de Serviços;3T/2017;71,181
+27;ABC Brasil;Despesas de Pessoal;3T/2017;-48,82
+28;ABC Brasil;Outras Despesas Administrativas;3T/2017;-25,633
+29;ABC Brasil;Despesas Tributárias;3T/2017;-21,495
+30;ABC Brasil;Outras Receitas Operacionais;3T/2017;10,915
+31;ABC Brasil;Outras Despesas Operacionais;3T/2017;-1,1
+32;ABC Brasil;Resultado da Equivalência Patrimonial;3T/2017;2,789
+33;ABC Brasil;Resultado Operacional;3T/2017;182,196
+34;ABC Brasil;Resultado Não Operacional;3T/2017;-10,582
+35;ABC Brasil;Receitas;3T/2017;9,784
+36;ABC Brasil;Despesas;3T/2017;-20,366
+37;ABC Brasil;Resultado Antes Tributação/Participações;3T/2017;171,614
+38;ABC Brasil;Provisão para IR e Contribuição Social;3T/2017;-35,01
+39;ABC Brasil;IR Diferido;3T/2017;0
+40;ABC Brasil;Participações/Contribuições Estatutárias;3T/2017;-32,47
+41;ABC Brasil;Reversão dos Juros sobre Capital Próprio;3T/2017;0
+42;ABC Brasil;Part. de Acionistas Não Controladores;3T/2017;0
+43;ABC Brasil;Lucro/Prejuízo do Período;3T/2017;104,134
+44;ABC Brasil;Receitas da Intermediação Financeira;2T/2017;737,823
+45;ABC Brasil;Despesas da Intermediação Financeira;2T/2017;-647,028
+46;ABC Brasil;Resultado Bruto Intermediação Financeira;2T/2017;90,795
+47;ABC Brasil;Outras Despesas/Receitas Operacionais;2T/2017;31,114
+48;ABC Brasil;Receitas de Prestação de Serviços;2T/2017;75,695
+49;ABC Brasil;Despesas de Pessoal;2T/2017;-51,21
+50;ABC Brasil;Outras Despesas Administrativas;2T/2017;-26,683
+51;ABC Brasil;Despesas Tributárias;2T/2017;-13,972
+52;ABC Brasil;Outras Receitas Operacionais;2T/2017;48,584
+53;ABC Brasil;Outras Despesas Operacionais;2T/2017;-4,363
+54;ABC Brasil;Resultado da Equivalência Patrimonial;2T/2017;3,063
+55;ABC Brasil;Resultado Operacional;2T/2017;121,909
+56;ABC Brasil;Resultado Não Operacional;2T/2017;-10,493
+57;ABC Brasil;Receitas;2T/2017;1,387
+58;ABC Brasil;Despesas;2T/2017;-11,88
+59;ABC Brasil;Resultado Antes Tributação/Participações;2T/2017;111,416
+60;ABC Brasil;Provisão para IR e Contribuição Social;2T/2017;25,197
+61;ABC Brasil;IR Diferido;2T/2017;0
+62;ABC Brasil;Participações/Contribuições Estatutárias;2T/2017;-29,474
+63;ABC Brasil;Reversão dos Juros sobre Capital Próprio;2T/2017;0
+64;ABC Brasil;Part. de Acionistas Não Controladores;2T/2017;0
+65;ABC Brasil;Lucro/Prejuízo do Período;2T/2017;107,139
+66;ABC Brasil;Receitas da Intermediação Financeira;1T/2017;575,226
+67;ABC Brasil;Despesas da Intermediação Financeira;1T/2017;-373,082
+68;ABC Brasil;Resultado Bruto Intermediação Financeira;1T/2017;202,144
+69;ABC Brasil;Outras Despesas/Receitas Operacionais;1T/2017;-37,519
+70;ABC Brasil;Receitas de Prestação de Serviços;1T/2017;76,333
+71;ABC Brasil;Despesas de Pessoal;1T/2017;-48,377
+72;ABC Brasil;Outras Despesas Administrativas;1T/2017;-25,731
+73;ABC Brasil;Despesas Tributárias;1T/2017;-18,848
+74;ABC Brasil;Outras Receitas Operacionais;1T/2017;7,682
+75;ABC Brasil;Outras Despesas Operacionais;1T/2017;-31,945
+76;ABC Brasil;Resultado da Equivalência Patrimonial;1T/2017;3,367
+77;ABC Brasil;Resultado Operacional;1T/2017;164,625
+78;ABC Brasil;Resultado Não Operacional;1T/2017;-7,694
+79;ABC Brasil;Receitas;1T/2017;2,716
+80;ABC Brasil;Despesas;1T/2017;-10,41
+81;ABC Brasil;Resultado Antes Tributação/Participações;1T/2017;156,931
+82;ABC Brasil;Provisão para IR e Contribuição Social;1T/2017;-29,966
+83;ABC Brasil;IR Diferido;1T/2017;0
+84;ABC Brasil;Participações/Contribuições Estatutárias;1T/2017;-30,11
+85;ABC Brasil;Reversão dos Juros sobre Capital Próprio;1T/2017;0
+86;ABC Brasil;Part. de Acionistas Não Controladores;1T/2017;0
+87;ABC Brasil;Lucro/Prejuízo do Período;1T/2017;96,855
+88;ABC Brasil;Receitas da Intermediação Financeira;4T/2016;664,776
+89;ABC Brasil;Despesas da Intermediação Financeira;4T/2016;-496,192
+90;ABC Brasil;Resultado Bruto Intermediação Financeira;4T/2016;168,584
+91;ABC Brasil;Outras Despesas/Receitas Operacionais;4T/2016;-29,257
+92;ABC Brasil;Receitas de Prestação de Serviços;4T/2016;69,537
+93;ABC Brasil;Despesas de Pessoal;4T/2016;-49,224
+94;ABC Brasil;Outras Despesas Administrativas;4T/2016;-28,938
+95;ABC Brasil;Despesas Tributárias;4T/2016;-22,668
+96;ABC Brasil;Outras Receitas Operacionais;4T/2016;-9,011
+97;ABC Brasil;Outras Despesas Operacionais;4T/2016;7,426
+98;ABC Brasil;Resultado da Equivalência Patrimonial;4T/2016;3,621
+99;ABC Brasil;Resultado Operacional;4T/2016;139,327
+100;ABC Brasil;Resultado Não Operacional;4T/2016;-2,539
+101;ABC Brasil;Receitas;4T/2016;-2,35
+102;ABC Brasil;Despesas;4T/2016;12,046
+103;ABC Brasil;Resultado Antes Tributação/Participações;4T/2016;136,788
+104;ABC Brasil;Provisão para IR e Contribuição Social;4T/2016;1,996
+105;ABC Brasil;IR Diferido;4T/2016;0
+106;ABC Brasil;Participações/Contribuições Estatutárias;4T/2016;-30,259
+107;ABC Brasil;Reversão dos Juros sobre Capital Próprio;4T/2016;0
+108;ABC Brasil;Part. de Acionistas Não Controladores;4T/2016;0
+109;ABC Brasil;Lucro/Prejuízo do Período;4T/2016;108,525
+110;ABC Brasil;Receitas da Intermediação Financeira;3T/2016;700,031
+111;ABC Brasil;Despesas da Intermediação Financeira;3T/2016;-550,964
+112;ABC Brasil;Resultado Bruto Intermediação Financeira;3T/2016;149,067
+113;ABC Brasil;Outras Despesas/Receitas Operacionais;3T/2016;-13,219
+114;ABC Brasil;Receitas de Prestação de Serviços;3T/2016;66,005
+115;ABC Brasil;Despesas de Pessoal;3T/2016;-45,261
+116;ABC Brasil;Outras Despesas Administrativas;3T/2016;-25,992
+117;ABC Brasil;Despesas Tributárias;3T/2016;-12,855
+118;ABC Brasil;Outras Receitas Operacionais;3T/2016;14,712
+119;ABC Brasil;Outras Despesas Operacionais;3T/2016;-13,568
+120;ABC Brasil;Resultado da Equivalência Patrimonial;3T/2016;3,74
+121;ABC Brasil;Resultado Operacional;3T/2016;135,848
+122;ABC Brasil;Resultado Não Operacional;3T/2016;-1,51
+123;ABC Brasil;Receitas;3T/2016;248
+124;ABC Brasil;Despesas;3T/2016;-1,758
+125;ABC Brasil;Resultado Antes Tributação/Participações;3T/2016;134,338
+126;ABC Brasil;Provisão para IR e Contribuição Social;3T/2016;-6,577
+127;ABC Brasil;IR Diferido;3T/2016;0
+128;ABC Brasil;Participações/Contribuições Estatutárias;3T/2016;-24,974
+129;ABC Brasil;Reversão dos Juros sobre Capital Próprio;3T/2016;0
+130;ABC Brasil;Part. de Acionistas Não Controladores;3T/2016;0
+131;ABC Brasil;Lucro/Prejuízo do Período;3T/2016;102,787
+132;ABC Brasil;Receitas da Intermediação Financeira;2T/2016;285,921
+133;ABC Brasil;Despesas da Intermediação Financeira;2T/2016;67,595
+134;ABC Brasil;Resultado Bruto Intermediação Financeira;2T/2016;353,516
+135;ABC Brasil;Outras Despesas/Receitas Operacionais;2T/2016;-125,498
+136;ABC Brasil;Receitas de Prestação de Serviços;2T/2016;64,914
+137;ABC Brasil;Despesas de Pessoal;2T/2016;-43,989
+138;ABC Brasil;Outras Despesas Administrativas;2T/2016;-25,468
+139;ABC Brasil;Despesas Tributárias;2T/2016;-14,38
+140;ABC Brasil;Outras Receitas Operacionais;2T/2016;3,694
+141;ABC Brasil;Outras Despesas Operacionais;2T/2016;-113,743
+142;ABC Brasil;Resultado da Equivalência Patrimonial;2T/2016;3,474
+143;ABC Brasil;Resultado Operacional;2T/2016;228,018
+144;ABC Brasil;Resultado Não Operacional;2T/2016;-306
+145;ABC Brasil;Receitas;2T/2016;929
+146;ABC Brasil;Despesas;2T/2016;-1,235
+147;ABC Brasil;Resultado Antes Tributação/Participações;2T/2016;227,712
+148;ABC Brasil;Provisão para IR e Contribuição Social;2T/2016;-96,95
+149;ABC Brasil;IR Diferido;2T/2016;0
+150;ABC Brasil;Participações/Contribuições Estatutárias;2T/2016;-26,666
+151;ABC Brasil;Reversão dos Juros sobre Capital Próprio;2T/2016;0
+152;ABC Brasil;Part. de Acionistas Não Controladores;2T/2016;0
+153;ABC Brasil;Lucro/Prejuízo do Período;2T/2016;104,096
+154;ABC Brasil;Receitas da Intermediação Financeira;1T/2016;353,955
+155;ABC Brasil;Despesas da Intermediação Financeira;1T/2016;-20,709
+156;ABC Brasil;Resultado Bruto Intermediação Financeira;1T/2016;333,246
+157;ABC Brasil;Outras Despesas/Receitas Operacionais;1T/2016;-119,158
+158;ABC Brasil;Receitas de Prestação de Serviços;1T/2016;56,107
+159;ABC Brasil;Despesas de Pessoal;1T/2016;-53,14
+160;ABC Brasil;Outras Despesas Administrativas;1T/2016;-23,989
+161;ABC Brasil;Despesas Tributárias;1T/2016;-8,158
+162;ABC Brasil;Outras Receitas Operacionais;1T/2016;9,783
+163;ABC Brasil;Outras Despesas Operacionais;1T/2016;-103,092
+164;ABC Brasil;Resultado da Equivalência Patrimonial;1T/2016;3,331
+165;ABC Brasil;Resultado Operacional;1T/2016;214,088
+166;ABC Brasil;Resultado Não Operacional;1T/2016;-7,88
+167;ABC Brasil;Receitas;1T/2016;1,173
+168;ABC Brasil;Despesas;1T/2016;-9,053
+169;ABC Brasil;Resultado Antes Tributação/Participações;1T/2016;206,208
+170;ABC Brasil;Provisão para IR e Contribuição Social;1T/2016;-89,526
+171;ABC Brasil;IR Diferido;1T/2016;0
+172;ABC Brasil;Participações/Contribuições Estatutárias;1T/2016;-25,533
+173;ABC Brasil;Reversão dos Juros sobre Capital Próprio;1T/2016;0
+174;ABC Brasil;Part. de Acionistas Não Controladores;1T/2016;0
+175;ABC Brasil;Lucro/Prejuízo do Período;1T/2016;91,149
+176;ABC Brasil;Receitas da Intermediação Financeira;4T/2015;527,968
+177;ABC Brasil;Despesas da Intermediação Financeira;4T/2015;-309,728
+178;ABC Brasil;Resultado Bruto Intermediação Financeira;4T/2015;218,24
+179;ABC Brasil;Outras Despesas/Receitas Operacionais;4T/2015;-57,678
+180;ABC Brasil;Receitas de Prestação de Serviços;4T/2015;58,227
+181;ABC Brasil;Despesas de Pessoal;4T/2015;-45,385
+182;ABC Brasil;Outras Despesas Administrativas;4T/2015;-24,598
+183;ABC Brasil;Despesas Tributárias;4T/2015;-12,72
+184;ABC Brasil;Outras Receitas Operacionais;4T/2015;-42,844
+185;ABC Brasil;Outras Despesas Operacionais;4T/2015;6,506
+186;ABC Brasil;Resultado da Equivalência Patrimonial;4T/2015;3,136
+187;ABC Brasil;Resultado Operacional;4T/2015;160,562
+188;ABC Brasil;Resultado Não Operacional;4T/2015;245
+189;ABC Brasil;Receitas;4T/2015;-1,843
+190;ABC Brasil;Despesas;4T/2015;8,318
+191;ABC Brasil;Resultado Antes Tributação/Participações;4T/2015;160,807
+192;ABC Brasil;Provisão para IR e Contribuição Social;4T/2015;-26,312
+193;ABC Brasil;IR Diferido;4T/2015;0
+194;ABC Brasil;Participações/Contribuições Estatutárias;4T/2015;-28,981
+195;ABC Brasil;Reversão dos Juros sobre Capital Próprio;4T/2015;0
+196;ABC Brasil;Part. de Acionistas Não Controladores;4T/2015;0
+197;ABC Brasil;Lucro/Prejuízo do Período;4T/2015;105,514
+198;ABC Brasil;Receitas da Intermediação Financeira;3T/2015;
+199;ABC Brasil;Despesas da Intermediação Financeira;3T/2015;
+200;ABC Brasil;Resultado Bruto Intermediação Financeira;3T/2015;-270,356
+201;ABC Brasil;Outras Despesas/Receitas Operacionais;3T/2015;205,447
+202;ABC Brasil;Receitas de Prestação de Serviços;3T/2015;45,081
+203;ABC Brasil;Despesas de Pessoal;3T/2015;-46,581
+204;ABC Brasil;Outras Despesas Administrativas;3T/2015;-23,142
+205;ABC Brasil;Despesas Tributárias;3T/2015;-5,523
+206;ABC Brasil;Outras Receitas Operacionais;3T/2015;237,413
+207;ABC Brasil;Outras Despesas Operacionais;3T/2015;-5,577
+208;ABC Brasil;Resultado da Equivalência Patrimonial;3T/2015;3,776
+209;ABC Brasil;Resultado Operacional;3T/2015;-64,909
+210;ABC Brasil;Resultado Não Operacional;3T/2015;-2,874
+211;ABC Brasil;Receitas;3T/2015;452
+212;ABC Brasil;Despesas;3T/2015;-3,326
+213;ABC Brasil;Resultado Antes Tributação/Participações;3T/2015;-67,783
+214;ABC Brasil;Provisão para IR e Contribuição Social;3T/2015;186,448
+215;ABC Brasil;IR Diferido;3T/2015;0
+216;ABC Brasil;Participações/Contribuições Estatutárias;3T/2015;-23,624
+217;ABC Brasil;Reversão dos Juros sobre Capital Próprio;3T/2015;0
+218;ABC Brasil;Part. de Acionistas Não Controladores;3T/2015;0
+219;ABC Brasil;Lucro/Prejuízo do Período;3T/2015;95,041
+220;ABC Brasil;Receitas da Intermediação Financeira;2T/2015;400,245
+221;ABC Brasil;Despesas da Intermediação Financeira;2T/2015;-197,143
+222;ABC Brasil;Resultado Bruto Intermediação Financeira;2T/2015;203,102
+223;ABC Brasil;Outras Despesas/Receitas Operacionais;2T/2015;-57,802
+224;ABC Brasil;Receitas de Prestação de Serviços;2T/2015;50,454
+225;ABC Brasil;Despesas de Pessoal;2T/2015;-42,367
+226;ABC Brasil;Outras Despesas Administrativas;2T/2015;-22,675
+227;ABC Brasil;Despesas Tributárias;2T/2015;-13,738
+228;ABC Brasil;Outras Receitas Operacionais;2T/2015;3,193
+229;ABC Brasil;Outras Despesas Operacionais;2T/2015;-35,754
+230;ABC Brasil;Resultado da Equivalência Patrimonial;2T/2015;3,085
+231;ABC Brasil;Resultado Operacional;2T/2015;145,3
+232;ABC Brasil;Resultado Não Operacional;2T/2015;-2,83
+233;ABC Brasil;Receitas;2T/2015;1,276
+234;ABC Brasil;Despesas;2T/2015;-4,106
+235;ABC Brasil;Resultado Antes Tributação/Participações;2T/2015;142,47
+236;ABC Brasil;Provisão para IR e Contribuição Social;2T/2015;-26,73
+237;ABC Brasil;IR Diferido;2T/2015;0
+238;ABC Brasil;Participações/Contribuições Estatutárias;2T/2015;-25,639
+239;ABC Brasil;Reversão dos Juros sobre Capital Próprio;2T/2015;0
+240;ABC Brasil;Part. de Acionistas Não Controladores;2T/2015;0
+241;ABC Brasil;Lucro/Prejuízo do Período;2T/2015;90,101
+242;ABC Brasil;Receitas da Intermediação Financeira;1T/2015;
+243;ABC Brasil;Despesas da Intermediação Financeira;1T/2015;
+244;ABC Brasil;Resultado Bruto Intermediação Financeira;1T/2015;-84,034
+245;ABC Brasil;Outras Despesas/Receitas Operacionais;1T/2015;114,646
+246;ABC Brasil;Receitas de Prestação de Serviços;1T/2015;45,324
+247;ABC Brasil;Despesas de Pessoal;1T/2015;-40,207
+248;ABC Brasil;Outras Despesas Administrativas;1T/2015;-23,128
+249;ABC Brasil;Despesas Tributárias;1T/2015;-5,116
+250;ABC Brasil;Outras Receitas Operacionais;1T/2015;141,513
+251;ABC Brasil;Outras Despesas Operacionais;1T/2015;-6,555
+252;ABC Brasil;Resultado da Equivalência Patrimonial;1T/2015;2,815
+253;ABC Brasil;Resultado Operacional;1T/2015;30,612
+254;ABC Brasil;Resultado Não Operacional;1T/2015;-771
+255;ABC Brasil;Receitas;1T/2015;115
+256;ABC Brasil;Despesas;1T/2015;-886
+257;ABC Brasil;Resultado Antes Tributação/Participações;1T/2015;29,841
+258;ABC Brasil;Provisão para IR e Contribuição Social;1T/2015;73,367
+259;ABC Brasil;IR Diferido;1T/2015;0
+260;ABC Brasil;Participações/Contribuições Estatutárias;1T/2015;-22,953
+261;ABC Brasil;Reversão dos Juros sobre Capital Próprio;1T/2015;0
+262;ABC Brasil;Part. de Acionistas Não Controladores;1T/2015;0
+263;ABC Brasil;Lucro/Prejuízo do Período;1T/2015;80,255
+264;ABC Brasil;Receitas da Intermediação Financeira;4T/2014;687,092
+265;ABC Brasil;Despesas da Intermediação Financeira;4T/2014;-625,492
+266;ABC Brasil;Resultado Bruto Intermediação Financeira;4T/2014;61,6
+267;ABC Brasil;Outras Despesas/Receitas Operacionais;4T/2014;21,798
+268;ABC Brasil;Receitas de Prestação de Serviços;4T/2014;49,55
+269;ABC Brasil;Despesas de Pessoal;4T/2014;-41,295
+270;ABC Brasil;Outras Despesas Administrativas;4T/2014;-24,176
+271;ABC Brasil;Despesas Tributárias;4T/2014;-8,922
+272;ABC Brasil;Outras Receitas Operacionais;4T/2014;15,149
+273;ABC Brasil;Outras Despesas Operacionais;4T/2014;28,527
+274;ABC Brasil;Resultado da Equivalência Patrimonial;4T/2014;2,965
+275;ABC Brasil;Resultado Operacional;4T/2014;83,398
+276;ABC Brasil;Resultado Não Operacional;4T/2014;-457
+277;ABC Brasil;Receitas;4T/2014;-3,408
+278;ABC Brasil;Despesas;4T/2014;5,21
+279;ABC Brasil;Resultado Antes Tributação/Participações;4T/2014;82,941
+280;ABC Brasil;Provisão para IR e Contribuição Social;4T/2014;22,35
+281;ABC Brasil;IR Diferido;4T/2014;0
+282;ABC Brasil;Participações/Contribuições Estatutárias;4T/2014;-24,494
+283;ABC Brasil;Reversão dos Juros sobre Capital Próprio;4T/2014;0
+284;ABC Brasil;Part. de Acionistas Não Controladores;4T/2014;0
+285;ABC Brasil;Lucro/Prejuízo do Período;4T/2014;80,797
+286;ABC Brasil;Receitas da Intermediação Financeira;3T/2014;659,593
+287;ABC Brasil;Despesas da Intermediação Financeira;3T/2014;-607,019
+288;ABC Brasil;Resultado Bruto Intermediação Financeira;3T/2014;52,574
+289;ABC Brasil;Outras Despesas/Receitas Operacionais;3T/2014;33,141
+290;ABC Brasil;Receitas de Prestação de Serviços;3T/2014;44,658
+291;ABC Brasil;Despesas de Pessoal;3T/2014;-37,368
+292;ABC Brasil;Outras Despesas Administrativas;3T/2014;-22,288
+293;ABC Brasil;Despesas Tributárias;3T/2014;-8,498
+294;ABC Brasil;Outras Receitas Operacionais;3T/2014;66,83
+295;ABC Brasil;Outras Despesas Operacionais;3T/2014;-13,07
+296;ABC Brasil;Resultado da Equivalência Patrimonial;3T/2014;2,877
+297;ABC Brasil;Resultado Operacional;3T/2014;85,715
+298;ABC Brasil;Resultado Não Operacional;3T/2014;489
+299;ABC Brasil;Receitas;3T/2014;2,782
+300;ABC Brasil;Despesas;3T/2014;-2,293
+301;ABC Brasil;Resultado Antes Tributação/Participações;3T/2014;86,204
+302;ABC Brasil;Provisão para IR e Contribuição Social;3T/2014;14,838
+303;ABC Brasil;IR Diferido;3T/2014;0
+304;ABC Brasil;Participações/Contribuições Estatutárias;3T/2014;-23,096
+305;ABC Brasil;Reversão dos Juros sobre Capital Próprio;3T/2014;0
+306;ABC Brasil;Part. de Acionistas Não Controladores;3T/2014;0
+307;ABC Brasil;Lucro/Prejuízo do Período;3T/2014;77,946
+308;ABC Brasil;Receitas da Intermediação Financeira;2T/2014;357,732
+309;ABC Brasil;Despesas da Intermediação Financeira;2T/2014;-186,797
+310;ABC Brasil;Resultado Bruto Intermediação Financeira;2T/2014;170,935
+311;ABC Brasil;Outras Despesas/Receitas Operacionais;2T/2014;-36,631
+312;ABC Brasil;Receitas de Prestação de Serviços;2T/2014;41,874
+313;ABC Brasil;Despesas de Pessoal;2T/2014;-37,353
+314;ABC Brasil;Outras Despesas Administrativas;2T/2014;-19,67
+315;ABC Brasil;Despesas Tributárias;2T/2014;-10,97
+316;ABC Brasil;Outras Receitas Operacionais;2T/2014;3,305
+317;ABC Brasil;Outras Despesas Operacionais;2T/2014;-16,494
+318;ABC Brasil;Resultado da Equivalência Patrimonial;2T/2014;2,677
+319;ABC Brasil;Resultado Operacional;2T/2014;134,304
+320;ABC Brasil;Resultado Não Operacional;2T/2014;-1,95
+321;ABC Brasil;Receitas;2T/2014;153
+322;ABC Brasil;Despesas;2T/2014;-2,103
+323;ABC Brasil;Resultado Antes Tributação/Participações;2T/2014;132,354
+324;ABC Brasil;Provisão para IR e Contribuição Social;2T/2014;-28,782
+325;ABC Brasil;IR Diferido;2T/2014;0
+326;ABC Brasil;Participações/Contribuições Estatutárias;2T/2014;-23,805
+327;ABC Brasil;Reversão dos Juros sobre Capital Próprio;2T/2014;0
+328;ABC Brasil;Part. de Acionistas Não Controladores;2T/2014;0
+329;ABC Brasil;Lucro/Prejuízo do Período;2T/2014;79,767
+330;ABC Brasil;Receitas da Intermediação Financeira;1T/2014;324,617
+331;ABC Brasil;Despesas da Intermediação Financeira;1T/2014;-163,853
+332;ABC Brasil;Resultado Bruto Intermediação Financeira;1T/2014;160,764
+333;ABC Brasil;Outras Despesas/Receitas Operacionais;1T/2014;-36,669
+334;ABC Brasil;Receitas de Prestação de Serviços;1T/2014;40,956
+335;ABC Brasil;Despesas de Pessoal;1T/2014;-35,716
+336;ABC Brasil;Outras Despesas Administrativas;1T/2014;-20,527
+337;ABC Brasil;Despesas Tributárias;1T/2014;-11,184
+338;ABC Brasil;Outras Receitas Operacionais;1T/2014;8,099
+339;ABC Brasil;Outras Despesas Operacionais;1T/2014;-20,844
+340;ABC Brasil;Resultado da Equivalência Patrimonial;1T/2014;2,547
+341;ABC Brasil;Resultado Operacional;1T/2014;124,095
+342;ABC Brasil;Resultado Não Operacional;1T/2014;-341
+343;ABC Brasil;Receitas;1T/2014;473
+344;ABC Brasil;Despesas;1T/2014;-814
+345;ABC Brasil;Resultado Antes Tributação/Participações;1T/2014;123,754
+346;ABC Brasil;Provisão para IR e Contribuição Social;1T/2014;-31,983
+347;ABC Brasil;IR Diferido;1T/2014;0
+348;ABC Brasil;Participações/Contribuições Estatutárias;1T/2014;-19,634
+349;ABC Brasil;Reversão dos Juros sobre Capital Próprio;1T/2014;0
+350;ABC Brasil;Part. de Acionistas Não Controladores;1T/2014;0
+351;ABC Brasil;Lucro/Prejuízo do Período;1T/2014;72,137
+352;ABC Brasil;Receitas da Intermediação Financeira;4T/2013;474,275
+353;ABC Brasil;Despesas da Intermediação Financeira;4T/2013;-364,573
+354;ABC Brasil;Resultado Bruto Intermediação Financeira;4T/2013;109,702
+355;ABC Brasil;Outras Despesas/Receitas Operacionais;4T/2013;-11,662
+356;ABC Brasil;Receitas de Prestação de Serviços;4T/2013;42,306
+357;ABC Brasil;Despesas de Pessoal;4T/2013;-38,795
+358;ABC Brasil;Outras Despesas Administrativas;4T/2013;-23,546
+359;ABC Brasil;Despesas Tributárias;4T/2013;-12,15
+360;ABC Brasil;Outras Receitas Operacionais;4T/2013;26,931
+361;ABC Brasil;Outras Despesas Operacionais;4T/2013;-8,974
+362;ABC Brasil;Resultado da Equivalência Patrimonial;4T/2013;2,566
+363;ABC Brasil;Resultado Operacional;4T/2013;98,04
+364;ABC Brasil;Resultado Não Operacional;4T/2013;-135
+365;ABC Brasil;Receitas;4T/2013;-1,081
+366;ABC Brasil;Despesas;4T/2013;2,717
+367;ABC Brasil;Resultado Antes Tributação/Participações;4T/2013;97,905
+368;ABC Brasil;Provisão para IR e Contribuição Social;4T/2013;1,577
+369;ABC Brasil;IR Diferido;4T/2013;0
+370;ABC Brasil;Participações/Contribuições Estatutárias;4T/2013;-23,315
+371;ABC Brasil;Reversão dos Juros sobre Capital Próprio;4T/2013;0
+372;ABC Brasil;Part. de Acionistas Não Controladores;4T/2013;0
+373;ABC Brasil;Lucro/Prejuízo do Período;4T/2013;76,167
+374;ABC Brasil;Receitas da Intermediação Financeira;3T/2013;348,451
+375;ABC Brasil;Despesas da Intermediação Financeira;3T/2013;-222,031
+376;ABC Brasil;Resultado Bruto Intermediação Financeira;3T/2013;126,42
+377;ABC Brasil;Outras Despesas/Receitas Operacionais;3T/2013;-20,278
+378;ABC Brasil;Receitas de Prestação de Serviços;3T/2013;37,177
+379;ABC Brasil;Despesas de Pessoal;3T/2013;-34,63
+380;ABC Brasil;Outras Despesas Administrativas;3T/2013;-18,648
+381;ABC Brasil;Despesas Tributárias;3T/2013;-10,431
+382;ABC Brasil;Outras Receitas Operacionais;3T/2013;7,033
+383;ABC Brasil;Outras Despesas Operacionais;3T/2013;-2,996
+384;ABC Brasil;Resultado da Equivalência Patrimonial;3T/2013;2,217
+385;ABC Brasil;Resultado Operacional;3T/2013;106,142
+386;ABC Brasil;Resultado Não Operacional;3T/2013;-1,115
+387;ABC Brasil;Receitas;3T/2013;177
+388;ABC Brasil;Despesas;3T/2013;-1,292
+389;ABC Brasil;Resultado Antes Tributação/Participações;3T/2013;105,027
+390;ABC Brasil;Provisão para IR e Contribuição Social;3T/2013;-18,154
+391;ABC Brasil;IR Diferido;3T/2013;0
+392;ABC Brasil;Participações/Contribuições Estatutárias;3T/2013;-19,544
+393;ABC Brasil;Reversão dos Juros sobre Capital Próprio;3T/2013;0
+394;ABC Brasil;Part. de Acionistas Não Controladores;3T/2013;0
+395;ABC Brasil;Lucro/Prejuízo do Período;3T/2013;67,329
+396;ABC Brasil;Receitas da Intermediação Financeira;2T/2013;464,308
+397;ABC Brasil;Despesas da Intermediação Financeira;2T/2013;-425,381
+398;ABC Brasil;Resultado Bruto Intermediação Financeira;2T/2013;38,927
+399;ABC Brasil;Outras Despesas/Receitas Operacionais;2T/2013;43,503
+400;ABC Brasil;Receitas de Prestação de Serviços;2T/2013;44,49
+401;ABC Brasil;Despesas de Pessoal;2T/2013;-34,603
+402;ABC Brasil;Outras Despesas Administrativas;2T/2013;-18,475
+403;ABC Brasil;Despesas Tributárias;2T/2013;-8,398
+404;ABC Brasil;Outras Receitas Operacionais;2T/2013;64,84
+405;ABC Brasil;Outras Despesas Operacionais;2T/2013;-6,5
+406;ABC Brasil;Resultado da Equivalência Patrimonial;2T/2013;2,149
+407;ABC Brasil;Resultado Operacional;2T/2013;82,43
+408;ABC Brasil;Resultado Não Operacional;2T/2013;-608
+409;ABC Brasil;Receitas;2T/2013;258
+410;ABC Brasil;Despesas;2T/2013;-866
+411;ABC Brasil;Resultado Antes Tributação/Participações;2T/2013;81,822
+412;ABC Brasil;Provisão para IR e Contribuição Social;2T/2013;3,53
+413;ABC Brasil;IR Diferido;2T/2013;0
+414;ABC Brasil;Participações/Contribuições Estatutárias;2T/2013;-20,642
+415;ABC Brasil;Reversão dos Juros sobre Capital Próprio;2T/2013;0
+416;ABC Brasil;Part. de Acionistas Não Controladores;2T/2013;0
+417;ABC Brasil;Lucro/Prejuízo do Período;2T/2013;64,71
+418;ABC Brasil;Receitas da Intermediação Financeira;1T/2013;256,45
+419;ABC Brasil;Despesas da Intermediação Financeira;1T/2013;-120,131
+420;ABC Brasil;Resultado Bruto Intermediação Financeira;1T/2013;136,319
+421;ABC Brasil;Outras Despesas/Receitas Operacionais;1T/2013;-31,323
+422;ABC Brasil;Receitas de Prestação de Serviços;1T/2013;32,954
+423;ABC Brasil;Despesas de Pessoal;1T/2013;-32,633
+424;ABC Brasil;Outras Despesas Administrativas;1T/2013;-17,513
+425;ABC Brasil;Despesas Tributárias;1T/2013;-9,957
+426;ABC Brasil;Outras Receitas Operacionais;1T/2013;2,119
+427;ABC Brasil;Outras Despesas Operacionais;1T/2013;-8,245
+428;ABC Brasil;Resultado da Equivalência Patrimonial;1T/2013;1,952
+429;ABC Brasil;Resultado Operacional;1T/2013;104,996
+430;ABC Brasil;Resultado Não Operacional;1T/2013;87
+431;ABC Brasil;Receitas;1T/2013;646
+432;ABC Brasil;Despesas;1T/2013;-559
+433;ABC Brasil;Resultado Antes Tributação/Participações;1T/2013;105,083
+434;ABC Brasil;Provisão para IR e Contribuição Social;1T/2013;-26,425
+435;ABC Brasil;IR Diferido;1T/2013;0
+436;ABC Brasil;Participações/Contribuições Estatutárias;1T/2013;-18,601
+437;ABC Brasil;Reversão dos Juros sobre Capital Próprio;1T/2013;0
+438;ABC Brasil;Part. de Acionistas Não Controladores;1T/2013;0
+439;ABC Brasil;Lucro/Prejuízo do Período;1T/2013;60,057
+440;ABC Brasil;Receitas da Intermediação Financeira;4T/2012;320,237
+441;ABC Brasil;Despesas da Intermediação Financeira;4T/2012;-207,395
+442;ABC Brasil;Resultado Bruto Intermediação Financeira;4T/2012;112,842
+443;ABC Brasil;Outras Despesas/Receitas Operacionais;4T/2012;-19,647
+444;ABC Brasil;Receitas de Prestação de Serviços;4T/2012;40,803
+445;ABC Brasil;Despesas de Pessoal;4T/2012;-36,218
+446;ABC Brasil;Outras Despesas Administrativas;4T/2012;-18,476
+447;ABC Brasil;Despesas Tributárias;4T/2012;-9,988
+448;ABC Brasil;Outras Receitas Operacionais;4T/2012;-1,923
+449;ABC Brasil;Outras Despesas Operacionais;4T/2012;4,466
+450;ABC Brasil;Resultado da Equivalência Patrimonial;4T/2012;1,689
+451;ABC Brasil;Resultado Operacional;4T/2012;93,195
+452;ABC Brasil;Resultado Não Operacional;4T/2012;-433
+453;ABC Brasil;Receitas;4T/2012;-227
+454;ABC Brasil;Despesas;4T/2012;6,405
+455;ABC Brasil;Resultado Antes Tributação/Participações;4T/2012;92,762
+456;ABC Brasil;Provisão para IR e Contribuição Social;4T/2012;-17,899
+457;ABC Brasil;IR Diferido;4T/2012;0
+458;ABC Brasil;Participações/Contribuições Estatutárias;4T/2012;-15,282
+459;ABC Brasil;Reversão dos Juros sobre Capital Próprio;4T/2012;0
+460;ABC Brasil;Part. de Acionistas Não Controladores;4T/2012;0
+461;ABC Brasil;Lucro/Prejuízo do Período;4T/2012;59,581
+462;ABC Brasil;Receitas da Intermediação Financeira;3T/2012;353,115
+463;ABC Brasil;Despesas da Intermediação Financeira;3T/2012;-244,536
+464;ABC Brasil;Resultado Bruto Intermediação Financeira;3T/2012;108,579
+465;ABC Brasil;Outras Despesas/Receitas Operacionais;3T/2012;-19,216
+466;ABC Brasil;Receitas de Prestação de Serviços;3T/2012;35,159
+467;ABC Brasil;Despesas de Pessoal;3T/2012;-30,935
+468;ABC Brasil;Outras Despesas Administrativas;3T/2012;-17,762
+469;ABC Brasil;Despesas Tributárias;3T/2012;-9,865
+470;ABC Brasil;Outras Receitas Operacionais;3T/2012;4,826
+471;ABC Brasil;Outras Despesas Operacionais;3T/2012;-2,824
+472;ABC Brasil;Resultado da Equivalência Patrimonial;3T/2012;2,185
+473;ABC Brasil;Resultado Operacional;3T/2012;89,363
+474;ABC Brasil;Resultado Não Operacional;3T/2012;-1,438
+475;ABC Brasil;Receitas;3T/2012;190
+476;ABC Brasil;Despesas;3T/2012;-1,628
+477;ABC Brasil;Resultado Antes Tributação/Participações;3T/2012;87,925
+478;ABC Brasil;Provisão para IR e Contribuição Social;3T/2012;-18,774
+479;ABC Brasil;IR Diferido;3T/2012;0
+480;ABC Brasil;Participações/Contribuições Estatutárias;3T/2012;-14,037
+481;ABC Brasil;Reversão dos Juros sobre Capital Próprio;3T/2012;0
+482;ABC Brasil;Part. de Acionistas Não Controladores;3T/2012;0
+483;ABC Brasil;Lucro/Prejuízo do Período;3T/2012;55,114
+484;ABC Brasil;Receitas da Intermediação Financeira;2T/2012;335,748
+485;ABC Brasil;Despesas da Intermediação Financeira;2T/2012;-285,891
+486;ABC Brasil;Resultado Bruto Intermediação Financeira;2T/2012;49,857
+487;ABC Brasil;Outras Despesas/Receitas Operacionais;2T/2012;16,913
+488;ABC Brasil;Receitas de Prestação de Serviços;2T/2012;32,108
+489;ABC Brasil;Despesas de Pessoal;2T/2012;-32,179
+490;ABC Brasil;Outras Despesas Administrativas;2T/2012;-19,665
+491;ABC Brasil;Despesas Tributárias;2T/2012;-8,226
+492;ABC Brasil;Outras Receitas Operacionais;2T/2012;44,122
+493;ABC Brasil;Outras Despesas Operacionais;2T/2012;-1,488
+494;ABC Brasil;Resultado da Equivalência Patrimonial;2T/2012;2,241
+495;ABC Brasil;Resultado Operacional;2T/2012;66,77
+496;ABC Brasil;Resultado Não Operacional;2T/2012;-3,818
+497;ABC Brasil;Receitas;2T/2012;0
+498;ABC Brasil;Despesas;2T/2012;-3,818
+499;ABC Brasil;Resultado Antes Tributação/Participações;2T/2012;62,952
+500;ABC Brasil;Provisão para IR e Contribuição Social;2T/2012;5,211
+501;ABC Brasil;IR Diferido;2T/2012;0
+502;ABC Brasil;Participações/Contribuições Estatutárias;2T/2012;-13,115
+503;ABC Brasil;Reversão dos Juros sobre Capital Próprio;2T/2012;0
+504;ABC Brasil;Part. de Acionistas Não Controladores;2T/2012;0
+505;ABC Brasil;Lucro/Prejuízo do Período;2T/2012;55,048
+506;ABC Brasil;Receitas da Intermediação Financeira;1T/2012;316,009
+507;ABC Brasil;Despesas da Intermediação Financeira;1T/2012;-195,828
+508;ABC Brasil;Resultado Bruto Intermediação Financeira;1T/2012;120,181
+509;ABC Brasil;Outras Despesas/Receitas Operacionais;1T/2012;-27,407
+510;ABC Brasil;Receitas de Prestação de Serviços;1T/2012;29,333
+511;ABC Brasil;Despesas de Pessoal;1T/2012;-31,017
+512;ABC Brasil;Outras Despesas Administrativas;1T/2012;-15,652
+513;ABC Brasil;Despesas Tributárias;1T/2012;-9,983
+514;ABC Brasil;Outras Receitas Operacionais;1T/2012;4,119
+515;ABC Brasil;Outras Despesas Operacionais;1T/2012;-6,604
+516;ABC Brasil;Resultado da Equivalência Patrimonial;1T/2012;2,397
+517;ABC Brasil;Resultado Operacional;1T/2012;92,774
+518;ABC Brasil;Resultado Não Operacional;1T/2012;-922
+519;ABC Brasil;Receitas;1T/2012;37
+520;ABC Brasil;Despesas;1T/2012;-959
+521;ABC Brasil;Resultado Antes Tributação/Participações;1T/2012;91,852
+522;ABC Brasil;Provisão para IR e Contribuição Social;1T/2012;-24,951
+523;ABC Brasil;IR Diferido;1T/2012;0
+524;ABC Brasil;Participações/Contribuições Estatutárias;1T/2012;-10,025
+525;ABC Brasil;Reversão dos Juros sobre Capital Próprio;1T/2012;0
+526;ABC Brasil;Part. de Acionistas Não Controladores;1T/2012;0
+527;ABC Brasil;Lucro/Prejuízo do Período;1T/2012;56,876
+528;ABC Brasil;Receitas da Intermediação Financeira;4T/2011;277,574
+529;ABC Brasil;Despesas da Intermediação Financeira;4T/2011;-154,627
+530;ABC Brasil;Resultado Bruto Intermediação Financeira;4T/2011;122,947
+531;ABC Brasil;Outras Despesas/Receitas Operacionais;4T/2011;-16,414
+532;ABC Brasil;Receitas de Prestação de Serviços;4T/2011;34,826
+533;ABC Brasil;Despesas de Pessoal;4T/2011;-32,219
+534;ABC Brasil;Outras Despesas Administrativas;4T/2011;-16,005
+535;ABC Brasil;Despesas Tributárias;4T/2011;-10,759
+536;ABC Brasil;Outras Receitas Operacionais;4T/2011;-3,476
+537;ABC Brasil;Outras Despesas Operacionais;4T/2011;8,645
+538;ABC Brasil;Resultado da Equivalência Patrimonial;4T/2011;2,574
+539;ABC Brasil;Resultado Operacional;4T/2011;106,533
+540;ABC Brasil;Resultado Não Operacional;4T/2011;-4,158
+541;ABC Brasil;Receitas;4T/2011;-2,875
+542;ABC Brasil;Despesas;4T/2011;4,697
+543;ABC Brasil;Resultado Antes Tributação/Participações;4T/2011;102,375
+544;ABC Brasil;Provisão para IR e Contribuição Social;4T/2011;-23,725
+545;ABC Brasil;IR Diferido;4T/2011;0
+546;ABC Brasil;Participações/Contribuições Estatutárias;4T/2011;-18,046
+547;ABC Brasil;Reversão dos Juros sobre Capital Próprio;4T/2011;0
+548;ABC Brasil;Part. de Acionistas Não Controladores;4T/2011;0
+549;ABC Brasil;Lucro/Prejuízo do Período;4T/2011;60,604
+550;ABC Brasil;Receitas da Intermediação Financeira;3T/2011;415,557
+551;ABC Brasil;Despesas da Intermediação Financeira;3T/2011;-331,696
+552;ABC Brasil;Resultado Bruto Intermediação Financeira;3T/2011;83,861
+553;ABC Brasil;Outras Despesas/Receitas Operacionais;3T/2011;1,58
+554;ABC Brasil;Receitas de Prestação de Serviços;3T/2011;30,039
+555;ABC Brasil;Despesas de Pessoal;3T/2011;-28,118
+556;ABC Brasil;Outras Despesas Administrativas;3T/2011;-16,634
+557;ABC Brasil;Despesas Tributárias;3T/2011;-8,746
+558;ABC Brasil;Outras Receitas Operacionais;3T/2011;26,243
+559;ABC Brasil;Outras Despesas Operacionais;3T/2011;-4,047
+560;ABC Brasil;Resultado da Equivalência Patrimonial;3T/2011;2,843
+561;ABC Brasil;Resultado Operacional;3T/2011;85,441
+562;ABC Brasil;Resultado Não Operacional;3T/2011;2,558
+563;ABC Brasil;Receitas;3T/2011;2,875
+564;ABC Brasil;Despesas;3T/2011;-317
+565;ABC Brasil;Resultado Antes Tributação/Participações;3T/2011;87,999
+566;ABC Brasil;Provisão para IR e Contribuição Social;3T/2011;-12,49
+567;ABC Brasil;IR Diferido;3T/2011;0
+568;ABC Brasil;Participações/Contribuições Estatutárias;3T/2011;-16,981
+569;ABC Brasil;Reversão dos Juros sobre Capital Próprio;3T/2011;0
+570;ABC Brasil;Part. de Acionistas Não Controladores;3T/2011;0
+571;ABC Brasil;Lucro/Prejuízo do Período;3T/2011;58,528
+572;ABC Brasil;Receitas da Intermediação Financeira;2T/2011;269,744
+573;ABC Brasil;Despesas da Intermediação Financeira;2T/2011;-135,801
+574;ABC Brasil;Resultado Bruto Intermediação Financeira;2T/2011;133,943
+575;ABC Brasil;Outras Despesas/Receitas Operacionais;2T/2011;-25,576
+576;ABC Brasil;Receitas de Prestação de Serviços;2T/2011;30,857
+577;ABC Brasil;Despesas de Pessoal;2T/2011;-27,301
+578;ABC Brasil;Outras Despesas Administrativas;2T/2011;-16,91
+579;ABC Brasil;Despesas Tributárias;2T/2011;-10,373
+580;ABC Brasil;Outras Receitas Operacionais;2T/2011;2,347
+581;ABC Brasil;Outras Despesas Operacionais;2T/2011;-6,815
+582;ABC Brasil;Resultado da Equivalência Patrimonial;2T/2011;2,619
+583;ABC Brasil;Resultado Operacional;2T/2011;108,367
+584;ABC Brasil;Resultado Não Operacional;2T/2011;-3,996
+585;ABC Brasil;Receitas;2T/2011;0
+586;ABC Brasil;Despesas;2T/2011;-3,996
+587;ABC Brasil;Resultado Antes Tributação/Participações;2T/2011;104,371
+588;ABC Brasil;Provisão para IR e Contribuição Social;2T/2011;-27,391
+589;ABC Brasil;IR Diferido;2T/2011;0
+590;ABC Brasil;Participações/Contribuições Estatutárias;2T/2011;-16,755
+591;ABC Brasil;Reversão dos Juros sobre Capital Próprio;2T/2011;0
+592;ABC Brasil;Part. de Acionistas Não Controladores;2T/2011;0
+593;ABC Brasil;Lucro/Prejuízo do Período;2T/2011;60,225
+594;ABC Brasil;Receitas da Intermediação Financeira;1T/2011;250,661
+595;ABC Brasil;Despesas da Intermediação Financeira;1T/2011;-127,434
+596;ABC Brasil;Resultado Bruto Intermediação Financeira;1T/2011;123,227
+597;ABC Brasil;Outras Despesas/Receitas Operacionais;1T/2011;-24,14
+598;ABC Brasil;Receitas de Prestação de Serviços;1T/2011;29,643
+599;ABC Brasil;Despesas de Pessoal;1T/2011;-26,054
+600;ABC Brasil;Outras Despesas Administrativas;1T/2011;-15,316
+601;ABC Brasil;Despesas Tributárias;1T/2011;-9,889
+602;ABC Brasil;Outras Receitas Operacionais;1T/2011;1,915
+603;ABC Brasil;Outras Despesas Operacionais;1T/2011;-6,796
+604;ABC Brasil;Resultado da Equivalência Patrimonial;1T/2011;2,357
+605;ABC Brasil;Resultado Operacional;1T/2011;99,087
+606;ABC Brasil;Resultado Não Operacional;1T/2011;-384
+607;ABC Brasil;Receitas;1T/2011;0
+608;ABC Brasil;Despesas;1T/2011;-384
+609;ABC Brasil;Resultado Antes Tributação/Participações;1T/2011;98,703
+610;ABC Brasil;Provisão para IR e Contribuição Social;1T/2011;-24,407
+611;ABC Brasil;IR Diferido;1T/2011;0
+612;ABC Brasil;Participações/Contribuições Estatutárias;1T/2011;-17,616
+613;ABC Brasil;Reversão dos Juros sobre Capital Próprio;1T/2011;0
+614;ABC Brasil;Part. de Acionistas Não Controladores;1T/2011;0
+615;ABC Brasil;Lucro/Prejuízo do Período;1T/2011;56,68
+616;ABC Brasil;Receitas da Intermediação Financeira;4T/2010;331,045
+617;ABC Brasil;Despesas da Intermediação Financeira;4T/2010;-232,831
+618;ABC Brasil;Resultado Bruto Intermediação Financeira;4T/2010;98,214
+619;ABC Brasil;Outras Despesas/Receitas Operacionais;4T/2010;-68,226
+620;ABC Brasil;Receitas de Prestação de Serviços;4T/2010;34,658
+621;ABC Brasil;Despesas de Pessoal;4T/2010;-92,588
+622;ABC Brasil;Outras Despesas Administrativas;4T/2010;-8,389
+623;ABC Brasil;Despesas Tributárias;4T/2010;25,225
+624;ABC Brasil;Outras Receitas Operacionais;4T/2010;22,025
+625;ABC Brasil;Outras Despesas Operacionais;4T/2010;-49,157
+626;ABC Brasil;Resultado da Equivalência Patrimonial;4T/2010;0
+627;ABC Brasil;Resultado Operacional;4T/2010;29,988
+628;ABC Brasil;Resultado Não Operacional;4T/2010;-77,159
+629;ABC Brasil;Receitas;4T/2010;-265
+630;ABC Brasil;Despesas;4T/2010;2,173
+631;ABC Brasil;Resultado Antes Tributação/Participações;4T/2010;-47,171
+632;ABC Brasil;Provisão para IR e Contribuição Social;4T/2010;55,842
+633;ABC Brasil;IR Diferido;4T/2010;202,757
+634;ABC Brasil;Participações/Contribuições Estatutárias;4T/2010;-19,234
+635;ABC Brasil;Reversão dos Juros sobre Capital Próprio;4T/2010;0
+636;ABC Brasil;Part. de Acionistas Não Controladores;4T/2010;0
+637;ABC Brasil;Lucro/Prejuízo do Período;4T/2010;54,005
+638;ABC Brasil;Receitas da Intermediação Financeira;3T/2010;226,819
+639;ABC Brasil;Despesas da Intermediação Financeira;3T/2010;-112,835
+640;ABC Brasil;Resultado Bruto Intermediação Financeira;3T/2010;113,984
+641;ABC Brasil;Outras Despesas/Receitas Operacionais;3T/2010;-26,674
+642;ABC Brasil;Receitas de Prestação de Serviços;3T/2010;22,842
+643;ABC Brasil;Despesas de Pessoal;3T/2010;-23,095
+644;ABC Brasil;Outras Despesas Administrativas;3T/2010;-13,744
+645;ABC Brasil;Despesas Tributárias;3T/2010;-8,666
+646;ABC Brasil;Outras Receitas Operacionais;3T/2010;4,045
+647;ABC Brasil;Outras Despesas Operacionais;3T/2010;-8,056
+648;ABC Brasil;Resultado da Equivalência Patrimonial;3T/2010;0
+649;ABC Brasil;Resultado Operacional;3T/2010;87,31
+650;ABC Brasil;Resultado Não Operacional;3T/2010;265
+651;ABC Brasil;Receitas;3T/2010;265
+652;ABC Brasil;Despesas;3T/2010;0
+653;ABC Brasil;Resultado Antes Tributação/Participações;3T/2010;87,575
+654;ABC Brasil;Provisão para IR e Contribuição Social;3T/2010;-21,486
+655;ABC Brasil;IR Diferido;3T/2010;0
+656;ABC Brasil;Participações/Contribuições Estatutárias;3T/2010;-14,974
+657;ABC Brasil;Reversão dos Juros sobre Capital Próprio;3T/2010;0
+658;ABC Brasil;Part. de Acionistas Não Controladores;3T/2010;0
+659;ABC Brasil;Lucro/Prejuízo do Período;3T/2010;51,115
+660;ABC Brasil;Receitas da Intermediação Financeira;2T/2010;254,131
+661;ABC Brasil;Despesas da Intermediação Financeira;2T/2010;-152,101
+662;ABC Brasil;Resultado Bruto Intermediação Financeira;2T/2010;102,03
+663;ABC Brasil;Outras Despesas/Receitas Operacionais;2T/2010;-16,196
+664;ABC Brasil;Receitas de Prestação de Serviços;2T/2010;26,217
+665;ABC Brasil;Despesas de Pessoal;2T/2010;-22,37
+666;ABC Brasil;Outras Despesas Administrativas;2T/2010;-13,545
+667;ABC Brasil;Despesas Tributárias;2T/2010;-8,278
+668;ABC Brasil;Outras Receitas Operacionais;2T/2010;3,48
+669;ABC Brasil;Outras Despesas Operacionais;2T/2010;-1,7
+670;ABC Brasil;Resultado da Equivalência Patrimonial;2T/2010;0
+671;ABC Brasil;Resultado Operacional;2T/2010;85,834
+672;ABC Brasil;Resultado Não Operacional;2T/2010;-1,908
+673;ABC Brasil;Receitas;2T/2010;0
+674;ABC Brasil;Despesas;2T/2010;-1,908
+675;ABC Brasil;Resultado Antes Tributação/Participações;2T/2010;83,926
+676;ABC Brasil;Provisão para IR e Contribuição Social;2T/2010;-18,311
+677;ABC Brasil;IR Diferido;2T/2010;0
+678;ABC Brasil;Participações/Contribuições Estatutárias;2T/2010;-15,445
+679;ABC Brasil;Reversão dos Juros sobre Capital Próprio;2T/2010;0
+680;ABC Brasil;Part. de Acionistas Não Controladores;2T/2010;0
+681;ABC Brasil;Lucro/Prejuízo do Período;2T/2010;50,17
+682;ABC Brasil;Receitas da Intermediação Financeira;1T/2010;207,606
+683;ABC Brasil;Despesas da Intermediação Financeira;1T/2010;-116,394
+684;ABC Brasil;Resultado Bruto Intermediação Financeira;1T/2010;91,212
+685;ABC Brasil;Outras Despesas/Receitas Operacionais;1T/2010;-12,52
+686;ABC Brasil;Receitas de Prestação de Serviços;1T/2010;24,431
+687;ABC Brasil;Despesas de Pessoal;1T/2010;-20,943
+688;ABC Brasil;Outras Despesas Administrativas;1T/2010;-14,348
+689;ABC Brasil;Despesas Tributárias;1T/2010;-8,281
+690;ABC Brasil;Outras Receitas Operacionais;1T/2010;7,311
+691;ABC Brasil;Outras Despesas Operacionais;1T/2010;-690
+692;ABC Brasil;Resultado da Equivalência Patrimonial;1T/2010;0
+693;ABC Brasil;Resultado Operacional;1T/2010;78,692
+694;ABC Brasil;Resultado Não Operacional;1T/2010;-265
+695;ABC Brasil;Receitas;1T/2010;0
+696;ABC Brasil;Despesas;1T/2010;-265
+697;ABC Brasil;Resultado Antes Tributação/Participações;1T/2010;78,427
+698;ABC Brasil;Provisão para IR e Contribuição Social;1T/2010;-16,045
+699;ABC Brasil;IR Diferido;1T/2010;0
+700;ABC Brasil;Participações/Contribuições Estatutárias;1T/2010;-15,448
+701;ABC Brasil;Reversão dos Juros sobre Capital Próprio;1T/2010;0
+702;ABC Brasil;Part. de Acionistas Não Controladores;1T/2010;0
+703;ABC Brasil;Lucro/Prejuízo do Período;1T/2010;46,934
+704;ABC Brasil;Receitas da Intermediação Financeira;4T/2009;192,556
+705;ABC Brasil;Despesas da Intermediação Financeira;4T/2009;-98,544
+706;ABC Brasil;Resultado Bruto Intermediação Financeira;4T/2009;94,012
+707;ABC Brasil;Outras Despesas/Receitas Operacionais;4T/2009;-45,232
+708;ABC Brasil;Receitas de Prestação de Serviços;4T/2009;19,797
+709;ABC Brasil;Despesas de Pessoal;4T/2009;-20,259
+710;ABC Brasil;Outras Despesas Administrativas;4T/2009;-15,658
+711;ABC Brasil;Despesas Tributárias;4T/2009;-3,549
+712;ABC Brasil;Outras Receitas Operacionais;4T/2009;69,672
+713;ABC Brasil;Outras Despesas Operacionais;4T/2009;-95,235
+714;ABC Brasil;Resultado da Equivalência Patrimonial;4T/2009;0
+715;ABC Brasil;Resultado Operacional;4T/2009;48,78
+716;ABC Brasil;Resultado Não Operacional;4T/2009;-311
+717;ABC Brasil;Receitas;4T/2009;0
+718;ABC Brasil;Despesas;4T/2009;-311
+719;ABC Brasil;Resultado Antes Tributação/Participações;4T/2009;48,469
+720;ABC Brasil;Provisão para IR e Contribuição Social;4T/2009;16,379
+721;ABC Brasil;IR Diferido;4T/2009;0
+722;ABC Brasil;Participações/Contribuições Estatutárias;4T/2009;-13,504
+723;ABC Brasil;Reversão dos Juros sobre Capital Próprio;4T/2009;0
+724;ABC Brasil;Part. de Acionistas Não Controladores;4T/2009;0
+725;ABC Brasil;Lucro/Prejuízo do Período;4T/2009;51,344
+726;ABC Brasil;Receitas da Intermediação Financeira;3T/2009;188,228
+727;ABC Brasil;Despesas da Intermediação Financeira;3T/2009;-92,209
+728;ABC Brasil;Resultado Bruto Intermediação Financeira;3T/2009;96,019
+729;ABC Brasil;Outras Despesas/Receitas Operacionais;3T/2009;-30,157
+730;ABC Brasil;Receitas de Prestação de Serviços;3T/2009;16,113
+731;ABC Brasil;Despesas de Pessoal;3T/2009;-19,533
+732;ABC Brasil;Outras Despesas Administrativas;3T/2009;-14,067
+733;ABC Brasil;Despesas Tributárias;3T/2009;-574
+734;ABC Brasil;Outras Receitas Operacionais;3T/2009;2,901
+735;ABC Brasil;Outras Despesas Operacionais;3T/2009;-14,997
+736;ABC Brasil;Resultado da Equivalência Patrimonial;3T/2009;0
+737;ABC Brasil;Resultado Operacional;3T/2009;65,862
+738;ABC Brasil;Resultado Não Operacional;3T/2009;-241
+739;ABC Brasil;Receitas;3T/2009;0
+740;ABC Brasil;Despesas;3T/2009;-241
+741;ABC Brasil;Resultado Antes Tributação/Participações;3T/2009;65,621
+742;ABC Brasil;Provisão para IR e Contribuição Social;3T/2009;-15,692
+743;ABC Brasil;IR Diferido;3T/2009;0
+744;ABC Brasil;Participações/Contribuições Estatutárias;3T/2009;-11,815
+745;ABC Brasil;Reversão dos Juros sobre Capital Próprio;3T/2009;0
+746;ABC Brasil;Part. de Acionistas Não Controladores;3T/2009;0
+747;ABC Brasil;Lucro/Prejuízo do Período;3T/2009;38,114
+748;ABC Brasil;Receitas da Intermediação Financeira;2T/2009;166,337
+749;ABC Brasil;Despesas da Intermediação Financeira;2T/2009;-62,65
+750;ABC Brasil;Resultado Bruto Intermediação Financeira;2T/2009;103,687
+751;ABC Brasil;Outras Despesas/Receitas Operacionais;2T/2009;-40,091
+752;ABC Brasil;Receitas de Prestação de Serviços;2T/2009;13,44
+753;ABC Brasil;Despesas de Pessoal;2T/2009;-17,48
+754;ABC Brasil;Outras Despesas Administrativas;2T/2009;-13,181
+755;ABC Brasil;Despesas Tributárias;2T/2009;-538
+756;ABC Brasil;Outras Receitas Operacionais;2T/2009;2,898
+757;ABC Brasil;Outras Despesas Operacionais;2T/2009;-25,23
+758;ABC Brasil;Resultado da Equivalência Patrimonial;2T/2009;0
+759;ABC Brasil;Resultado Operacional;2T/2009;63,596
+760;ABC Brasil;Resultado Não Operacional;2T/2009;-1,049
+761;ABC Brasil;Receitas;2T/2009;0
+762;ABC Brasil;Despesas;2T/2009;-1,049
+763;ABC Brasil;Resultado Antes Tributação/Participações;2T/2009;62,547
+764;ABC Brasil;Provisão para IR e Contribuição Social;2T/2009;-17,917
+765;ABC Brasil;IR Diferido;2T/2009;0
+766;ABC Brasil;Participações/Contribuições Estatutárias;2T/2009;-9,245
+767;ABC Brasil;Reversão dos Juros sobre Capital Próprio;2T/2009;0
+768;ABC Brasil;Part. de Acionistas Não Controladores;2T/2009;0
+769;ABC Brasil;Lucro/Prejuízo do Período;2T/2009;35,385
+770;ABC Brasil;Receitas da Intermediação Financeira;1T/2009;185,744
+771;ABC Brasil;Despesas da Intermediação Financeira;1T/2009;-122,278
+772;ABC Brasil;Resultado Bruto Intermediação Financeira;1T/2009;63,466
+773;ABC Brasil;Outras Despesas/Receitas Operacionais;1T/2009;-24,023
+774;ABC Brasil;Receitas de Prestação de Serviços;1T/2009;10,302
+775;ABC Brasil;Despesas de Pessoal;1T/2009;-20,639
+776;ABC Brasil;Outras Despesas Administrativas;1T/2009;-12,328
+777;ABC Brasil;Despesas Tributárias;1T/2009;-549
+778;ABC Brasil;Outras Receitas Operacionais;1T/2009;2,596
+779;ABC Brasil;Outras Despesas Operacionais;1T/2009;-3,405
+780;ABC Brasil;Resultado da Equivalência Patrimonial;1T/2009;0
+781;ABC Brasil;Resultado Operacional;1T/2009;39,443
+782;ABC Brasil;Resultado Não Operacional;1T/2009;-1,708
+783;ABC Brasil;Receitas;1T/2009;7
+784;ABC Brasil;Despesas;1T/2009;-1,715
+785;ABC Brasil;Resultado Antes Tributação/Participações;1T/2009;37,735
+786;ABC Brasil;Provisão para IR e Contribuição Social;1T/2009;-3,924
+787;ABC Brasil;IR Diferido;1T/2009;0
+788;ABC Brasil;Participações/Contribuições Estatutárias;1T/2009;-7,5
+789;ABC Brasil;Reversão dos Juros sobre Capital Próprio;1T/2009;0
+790;ABC Brasil;Part. de Acionistas Não Controladores;1T/2009;0
+791;ABC Brasil;Lucro/Prejuízo do Período;1T/2009;26,311
+792;ABC Brasil;Receitas da Intermediação Financeira;4T/2008;402,452
+793;ABC Brasil;Despesas da Intermediação Financeira;4T/2008;-377,181
+794;ABC Brasil;Resultado Bruto Intermediação Financeira;4T/2008;25,271
+795;ABC Brasil;Outras Despesas/Receitas Operacionais;4T/2008;-13,544
+796;ABC Brasil;Receitas de Prestação de Serviços;4T/2008;11,179
+797;ABC Brasil;Despesas de Pessoal;4T/2008;-20,74
+798;ABC Brasil;Outras Despesas Administrativas;4T/2008;-26,424
+799;ABC Brasil;Despesas Tributárias;4T/2008;-635
+800;ABC Brasil;Outras Receitas Operacionais;4T/2008;16,738
+801;ABC Brasil;Outras Despesas Operacionais;4T/2008;6,338
+802;ABC Brasil;Resultado da Equivalência Patrimonial;4T/2008;0
+803;ABC Brasil;Resultado Operacional;4T/2008;11,727
+804;ABC Brasil;Resultado Não Operacional;4T/2008;1
+805;ABC Brasil;Receitas;4T/2008;1
+806;ABC Brasil;Despesas;4T/2008;0
+807;ABC Brasil;Resultado Antes Tributação/Participações;4T/2008;11,728
+808;ABC Brasil;Provisão para IR e Contribuição Social;4T/2008;13,322
+809;ABC Brasil;IR Diferido;4T/2008;0
+810;ABC Brasil;Participações/Contribuições Estatutárias;4T/2008;-4,755
+811;ABC Brasil;Reversão dos Juros sobre Capital Próprio;4T/2008;0
+812;ABC Brasil;Part. de Acionistas Não Controladores;4T/2008;0
+813;ABC Brasil;Lucro/Prejuízo do Período;4T/2008;20,295
+814;ABC Brasil;Receitas da Intermediação Financeira;3T/2008;304,883
+815;ABC Brasil;Despesas da Intermediação Financeira;3T/2008;-234,763
+816;ABC Brasil;Resultado Bruto Intermediação Financeira;3T/2008;70,12
+817;ABC Brasil;Outras Despesas/Receitas Operacionais;3T/2008;-276
+818;ABC Brasil;Receitas de Prestação de Serviços;3T/2008;12,068
+819;ABC Brasil;Despesas de Pessoal;3T/2008;-17,594
+820;ABC Brasil;Outras Despesas Administrativas;3T/2008;-12,312
+821;ABC Brasil;Despesas Tributárias;3T/2008;-786
+822;ABC Brasil;Outras Receitas Operacionais;3T/2008;19,809
+823;ABC Brasil;Outras Despesas Operacionais;3T/2008;-1,461
+824;ABC Brasil;Resultado da Equivalência Patrimonial;3T/2008;0
+825;ABC Brasil;Resultado Operacional;3T/2008;69,844
+826;ABC Brasil;Resultado Não Operacional;3T/2008;1,205
+827;ABC Brasil;Receitas;3T/2008;1,207
+828;ABC Brasil;Despesas;3T/2008;-2
+829;ABC Brasil;Resultado Antes Tributação/Participações;3T/2008;71,049
+830;ABC Brasil;Provisão para IR e Contribuição Social;3T/2008;-8,679
+831;ABC Brasil;IR Diferido;3T/2008;0
+832;ABC Brasil;Participações/Contribuições Estatutárias;3T/2008;-13,961
+833;ABC Brasil;Reversão dos Juros sobre Capital Próprio;3T/2008;0
+834;ABC Brasil;Part. de Acionistas Não Controladores;3T/2008;0
+835;ABC Brasil;Lucro/Prejuízo do Período;3T/2008;48,409
+836;ABC Brasil;Receitas da Intermediação Financeira;2T/2008;149,993
+837;ABC Brasil;Despesas da Intermediação Financeira;2T/2008;-53,31
+838;ABC Brasil;Resultado Bruto Intermediação Financeira;2T/2008;96,683
+839;ABC Brasil;Outras Despesas/Receitas Operacionais;2T/2008;-24,014
+840;ABC Brasil;Receitas de Prestação de Serviços;2T/2008;10,77
+841;ABC Brasil;Despesas de Pessoal;2T/2008;-16,031
+842;ABC Brasil;Outras Despesas Administrativas;2T/2008;-10,873
+843;ABC Brasil;Despesas Tributárias;2T/2008;-705
+844;ABC Brasil;Outras Receitas Operacionais;2T/2008;2,427
+845;ABC Brasil;Outras Despesas Operacionais;2T/2008;-9,602
+846;ABC Brasil;Resultado da Equivalência Patrimonial;2T/2008;0
+847;ABC Brasil;Resultado Operacional;2T/2008;72,669
+848;ABC Brasil;Resultado Não Operacional;2T/2008;-2
+849;ABC Brasil;Receitas;2T/2008;0
+850;ABC Brasil;Despesas;2T/2008;-2
+851;ABC Brasil;Resultado Antes Tributação/Participações;2T/2008;72,667
+852;ABC Brasil;Provisão para IR e Contribuição Social;2T/2008;-17,431
+853;ABC Brasil;IR Diferido;2T/2008;0
+854;ABC Brasil;Participações/Contribuições Estatutárias;2T/2008;-11,858
+855;ABC Brasil;Reversão dos Juros sobre Capital Próprio;2T/2008;0
+856;ABC Brasil;Part. de Acionistas Não Controladores;2T/2008;0
+857;ABC Brasil;Lucro/Prejuízo do Período;2T/2008;43,378
+858;ABC Brasil;Receitas da Intermediação Financeira;1T/2008;210,938
+859;ABC Brasil;Despesas da Intermediação Financeira;1T/2008;-130,989
+860;ABC Brasil;Resultado Bruto Intermediação Financeira;1T/2008;79,949
+861;ABC Brasil;Outras Despesas/Receitas Operacionais;1T/2008;-15,752
+862;ABC Brasil;Receitas de Prestação de Serviços;1T/2008;9,124
+863;ABC Brasil;Despesas de Pessoal;1T/2008;-14,181
+864;ABC Brasil;Outras Despesas Administrativas;1T/2008;-9,685
+865;ABC Brasil;Despesas Tributárias;1T/2008;-779
+866;ABC Brasil;Outras Receitas Operacionais;1T/2008;2,057
+867;ABC Brasil;Outras Despesas Operacionais;1T/2008;-2,288
+868;ABC Brasil;Resultado da Equivalência Patrimonial;1T/2008;0
+869;ABC Brasil;Resultado Operacional;1T/2008;64,197
+870;ABC Brasil;Resultado Não Operacional;1T/2008;0
+871;ABC Brasil;Receitas;1T/2008;0
+872;ABC Brasil;Despesas;1T/2008;0
+873;ABC Brasil;Resultado Antes Tributação/Participações;1T/2008;64,197
+874;ABC Brasil;Provisão para IR e Contribuição Social;1T/2008;-11,672
+875;ABC Brasil;IR Diferido;1T/2008;0
+876;ABC Brasil;Participações/Contribuições Estatutárias;1T/2008;-14,519
+877;ABC Brasil;Reversão dos Juros sobre Capital Próprio;1T/2008;0
+878;ABC Brasil;Part. de Acionistas Não Controladores;1T/2008;0
+879;ABC Brasil;Lucro/Prejuízo do Período;1T/2008;38,006
+880;ABC Brasil;Receitas da Intermediação Financeira;4T/2007;152,492
+881;ABC Brasil;Despesas da Intermediação Financeira;4T/2007;-70,234
+882;ABC Brasil;Resultado Bruto Intermediação Financeira;4T/2007;82,258
+883;ABC Brasil;Outras Despesas/Receitas Operacionais;4T/2007;-21,879
+884;ABC Brasil;Receitas de Prestação de Serviços;4T/2007;12,398
+885;ABC Brasil;Despesas de Pessoal;4T/2007;-14,586
+886;ABC Brasil;Outras Despesas Administrativas;4T/2007;-10,816
+887;ABC Brasil;Despesas Tributárias;4T/2007;-871
+888;ABC Brasil;Outras Receitas Operacionais;4T/2007;1,243
+889;ABC Brasil;Outras Despesas Operacionais;4T/2007;-9,247
+890;ABC Brasil;Resultado da Equivalência Patrimonial;4T/2007;0
+891;ABC Brasil;Resultado Operacional;4T/2007;60,379
+892;ABC Brasil;Resultado Não Operacional;4T/2007;-25
+893;ABC Brasil;Receitas;4T/2007;0
+894;ABC Brasil;Despesas;4T/2007;-25
+895;ABC Brasil;Resultado Antes Tributação/Participações;4T/2007;60,354
+896;ABC Brasil;Provisão para IR e Contribuição Social;4T/2007;1,026
+897;ABC Brasil;IR Diferido;4T/2007;0
+898;ABC Brasil;Participações/Contribuições Estatutárias;4T/2007;-11,24
+899;ABC Brasil;Reversão dos Juros sobre Capital Próprio;4T/2007;0
+900;ABC Brasil;Part. de Acionistas Não Controladores;4T/2007;0
+901;ABC Brasil;Lucro/Prejuízo do Período;4T/2007;50,14
+902;ABC Brasil;Receitas da Intermediação Financeira;3T/2007;129,33
+903;ABC Brasil;Despesas da Intermediação Financeira;3T/2007;-73,439
+904;ABC Brasil;Resultado Bruto Intermediação Financeira;3T/2007;55,891
+905;ABC Brasil;Outras Despesas/Receitas Operacionais;3T/2007;-45,929
+906;ABC Brasil;Receitas de Prestação de Serviços;3T/2007;9,332
+907;ABC Brasil;Despesas de Pessoal;3T/2007;-12,466
+908;ABC Brasil;Outras Despesas Administrativas;3T/2007;-38,679
+909;ABC Brasil;Despesas Tributárias;3T/2007;-1,04
+910;ABC Brasil;Outras Receitas Operacionais;3T/2007;1,664
+911;ABC Brasil;Outras Despesas Operacionais;3T/2007;-4,74
+912;ABC Brasil;Resultado da Equivalência Patrimonial;3T/2007;0
+913;ABC Brasil;Resultado Operacional;3T/2007;9,962
+914;ABC Brasil;Resultado Não Operacional;3T/2007;-350
+915;ABC Brasil;Receitas;3T/2007;293
+916;ABC Brasil;Despesas;3T/2007;-643
+917;ABC Brasil;Resultado Antes Tributação/Participações;3T/2007;9,612
+918;ABC Brasil;Provisão para IR e Contribuição Social;3T/2007;-1,97
+919;ABC Brasil;IR Diferido;3T/2007;0
+920;ABC Brasil;Participações/Contribuições Estatutárias;3T/2007;-4,457
+921;ABC Brasil;Reversão dos Juros sobre Capital Próprio;3T/2007;0
+922;ABC Brasil;Part. de Acionistas Não Controladores;3T/2007;0
+923;ABC Brasil;Lucro/Prejuízo do Período;3T/2007;3,185
+924;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;4T/2017;0
+925;AMBEV S/A;Deduções da Receita Bruta;4T/2017;0
+926;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;4T/2017;
+927;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;4T/2017;
+928;AMBEV S/A;Resultado Bruto;4T/2017;
+929;AMBEV S/A;Despesas Com Vendas;4T/2017;
+930;AMBEV S/A;Despesas Gerais e Administrativas;4T/2017;
+931;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;4T/2017;0
+932;AMBEV S/A;Outras Receitas Operacionais;4T/2017;476,209
+933;AMBEV S/A;Outras Despesas Operacionais;4T/2017;-53,318
+934;AMBEV S/A;Resultado da Equivalência Patrimonial;4T/2017;-4,881
+935;AMBEV S/A;Financeiras;4T/2017;
+936;AMBEV S/A;Receitas Financeiras;4T/2017;341,734
+937;AMBEV S/A;Despesas Financeiras;4T/2017;
+938;AMBEV S/A;Resultado Não Operacional;4T/2017;0
+939;AMBEV S/A;Receitas;4T/2017;0
+940;AMBEV S/A;Despesas;4T/2017;0
+941;AMBEV S/A;Resultado Antes Tributação/Participações;4T/2017;
+942;AMBEV S/A;Provisão para IR e Contribuição Social;4T/2017;-358,014
+943;AMBEV S/A;IR Diferido;4T/2017;
+944;AMBEV S/A;Participações/Contribuições Estatutárias;4T/2017;0
+945;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;4T/2017;0
+946;AMBEV S/A;Part. de Acionistas Não Controladores;4T/2017;-179,888
+947;AMBEV S/A;Lucro/Prejuízo do Período;4T/2017;
+948;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;3T/2017;0
+949;AMBEV S/A;Deduções da Receita Bruta;3T/2017;0
+950;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;3T/2017;
+951;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;3T/2017;
+952;AMBEV S/A;Resultado Bruto;3T/2017;
+953;AMBEV S/A;Despesas Com Vendas;3T/2017;
+954;AMBEV S/A;Despesas Gerais e Administrativas;3T/2017;-528,467
+955;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;3T/2017;0
+956;AMBEV S/A;Outras Receitas Operacionais;3T/2017;289,77
+957;AMBEV S/A;Outras Despesas Operacionais;3T/2017;-56,673
+958;AMBEV S/A;Resultado da Equivalência Patrimonial;3T/2017;-4,535
+959;AMBEV S/A;Financeiras;3T/2017;-674,932
+960;AMBEV S/A;Receitas Financeiras;3T/2017;186,131
+961;AMBEV S/A;Despesas Financeiras;3T/2017;-861,063
+962;AMBEV S/A;Resultado Não Operacional;3T/2017;0
+963;AMBEV S/A;Receitas;3T/2017;0
+964;AMBEV S/A;Despesas;3T/2017;0
+965;AMBEV S/A;Resultado Antes Tributação/Participações;3T/2017;
+966;AMBEV S/A;Provisão para IR e Contribuição Social;3T/2017;
+967;AMBEV S/A;IR Diferido;3T/2017;917,454
+968;AMBEV S/A;Participações/Contribuições Estatutárias;3T/2017;0
+969;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;3T/2017;0
+970;AMBEV S/A;Part. de Acionistas Não Controladores;3T/2017;-136,267
+971;AMBEV S/A;Lucro/Prejuízo do Período;3T/2017;223
+972;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;2T/2017;0
+973;AMBEV S/A;Deduções da Receita Bruta;2T/2017;0
+974;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;2T/2017;
+975;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;2T/2017;
+976;AMBEV S/A;Resultado Bruto;2T/2017;
+977;AMBEV S/A;Despesas Com Vendas;2T/2017;
+978;AMBEV S/A;Despesas Gerais e Administrativas;2T/2017;-520,78
+979;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;2T/2017;0
+980;AMBEV S/A;Outras Receitas Operacionais;2T/2017;258,148
+981;AMBEV S/A;Outras Despesas Operacionais;2T/2017;-67,663
+982;AMBEV S/A;Resultado da Equivalência Patrimonial;2T/2017;5,269
+983;AMBEV S/A;Financeiras;2T/2017;-698,822
+984;AMBEV S/A;Receitas Financeiras;2T/2017;122,87
+985;AMBEV S/A;Despesas Financeiras;2T/2017;-821,692
+986;AMBEV S/A;Resultado Não Operacional;2T/2017;0
+987;AMBEV S/A;Receitas;2T/2017;0
+988;AMBEV S/A;Despesas;2T/2017;0
+989;AMBEV S/A;Resultado Antes Tributação/Participações;2T/2017;
+990;AMBEV S/A;Provisão para IR e Contribuição Social;2T/2017;-577,296
+991;AMBEV S/A;IR Diferido;2T/2017;356,837
+992;AMBEV S/A;Participações/Contribuições Estatutárias;2T/2017;0
+993;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;2T/2017;0
+994;AMBEV S/A;Part. de Acionistas Não Controladores;2T/2017;-111,685
+995;AMBEV S/A;Lucro/Prejuízo do Período;2T/2017;
+996;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;1T/2017;0
+997;AMBEV S/A;Deduções da Receita Bruta;1T/2017;0
+998;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;1T/2017;
+999;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;1T/2017;
+1000;AMBEV S/A;Resultado Bruto;1T/2017;
+1001;AMBEV S/A;Despesas Com Vendas;1T/2017;
+1002;AMBEV S/A;Despesas Gerais e Administrativas;1T/2017;-555,659
+1003;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;1T/2017;0
+1004;AMBEV S/A;Outras Receitas Operacionais;1T/2017;314,82
+1005;AMBEV S/A;Outras Despesas Operacionais;1T/2017;-52,688
+1006;AMBEV S/A;Resultado da Equivalência Patrimonial;1T/2017;1,032
+1007;AMBEV S/A;Financeiras;1T/2017;-872,595
+1008;AMBEV S/A;Receitas Financeiras;1T/2017;123,663
+1009;AMBEV S/A;Despesas Financeiras;1T/2017;-996,258
+1010;AMBEV S/A;Resultado Não Operacional;1T/2017;0
+1011;AMBEV S/A;Receitas;1T/2017;0
+1012;AMBEV S/A;Despesas;1T/2017;0
+1013;AMBEV S/A;Resultado Antes Tributação/Participações;1T/2017;
+1014;AMBEV S/A;Provisão para IR e Contribuição Social;1T/2017;-681,759
+1015;AMBEV S/A;IR Diferido;1T/2017;343,246
+1016;AMBEV S/A;Participações/Contribuições Estatutárias;1T/2017;0
+1017;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;1T/2017;0
+1018;AMBEV S/A;Part. de Acionistas Não Controladores;1T/2017;-90,696
+1019;AMBEV S/A;Lucro/Prejuízo do Período;1T/2017;
+1020;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;4T/2016;0
+1021;AMBEV S/A;Deduções da Receita Bruta;4T/2016;0
+1022;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;4T/2016;
+1023;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;4T/2016;
+1024;AMBEV S/A;Resultado Bruto;4T/2016;
+1025;AMBEV S/A;Despesas Com Vendas;4T/2016;
+1026;AMBEV S/A;Despesas Gerais e Administrativas;4T/2016;-573,853
+1027;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;4T/2016;0
+1028;AMBEV S/A;Outras Receitas Operacionais;4T/2016;
+1029;AMBEV S/A;Outras Despesas Operacionais;4T/2016;-174,506
+1030;AMBEV S/A;Resultado da Equivalência Patrimonial;4T/2016;-3,441
+1031;AMBEV S/A;Financeiras;4T/2016;-908,184
+1032;AMBEV S/A;Receitas Financeiras;4T/2016;299,859
+1033;AMBEV S/A;Despesas Financeiras;4T/2016;
+1034;AMBEV S/A;Resultado Não Operacional;4T/2016;0
+1035;AMBEV S/A;Receitas;4T/2016;0
+1036;AMBEV S/A;Despesas;4T/2016;0
+1037;AMBEV S/A;Resultado Antes Tributação/Participações;4T/2016;
+1038;AMBEV S/A;Provisão para IR e Contribuição Social;4T/2016;
+1039;AMBEV S/A;IR Diferido;4T/2016;
+1040;AMBEV S/A;Participações/Contribuições Estatutárias;4T/2016;0
+1041;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;4T/2016;0
+1042;AMBEV S/A;Part. de Acionistas Não Controladores;4T/2016;-161,375
+1043;AMBEV S/A;Lucro/Prejuízo do Período;4T/2016;
+1044;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;3T/2016;0
+1045;AMBEV S/A;Deduções da Receita Bruta;3T/2016;0
+1046;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;3T/2016;
+1047;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;3T/2016;
+1048;AMBEV S/A;Resultado Bruto;3T/2016;
+1049;AMBEV S/A;Despesas Com Vendas;3T/2016;
+1050;AMBEV S/A;Despesas Gerais e Administrativas;3T/2016;-505,055
+1051;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;3T/2016;0
+1052;AMBEV S/A;Outras Receitas Operacionais;3T/2016;364,363
+1053;AMBEV S/A;Outras Despesas Operacionais;3T/2016;-37,83
+1054;AMBEV S/A;Resultado da Equivalência Patrimonial;3T/2016;-9,381
+1055;AMBEV S/A;Financeiras;3T/2016;-722,633
+1056;AMBEV S/A;Receitas Financeiras;3T/2016;137,828
+1057;AMBEV S/A;Despesas Financeiras;3T/2016;-860,461
+1058;AMBEV S/A;Resultado Não Operacional;3T/2016;0
+1059;AMBEV S/A;Receitas;3T/2016;0
+1060;AMBEV S/A;Despesas;3T/2016;0
+1061;AMBEV S/A;Resultado Antes Tributação/Participações;3T/2016;
+1062;AMBEV S/A;Provisão para IR e Contribuição Social;3T/2016;-524,936
+1063;AMBEV S/A;IR Diferido;3T/2016;
+1064;AMBEV S/A;Participações/Contribuições Estatutárias;3T/2016;0
+1065;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;3T/2016;0
+1066;AMBEV S/A;Part. de Acionistas Não Controladores;3T/2016;-121,917
+1067;AMBEV S/A;Lucro/Prejuízo do Período;3T/2016;
+1068;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;2T/2016;0
+1069;AMBEV S/A;Deduções da Receita Bruta;2T/2016;0
+1070;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;2T/2016;
+1071;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;2T/2016;
+1072;AMBEV S/A;Resultado Bruto;2T/2016;
+1073;AMBEV S/A;Despesas Com Vendas;2T/2016;
+1074;AMBEV S/A;Despesas Gerais e Administrativas;2T/2016;-553,551
+1075;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;2T/2016;0
+1076;AMBEV S/A;Outras Receitas Operacionais;2T/2016;384,092
+1077;AMBEV S/A;Outras Despesas Operacionais;2T/2016;-75,186
+1078;AMBEV S/A;Resultado da Equivalência Patrimonial;2T/2016;388
+1079;AMBEV S/A;Financeiras;2T/2016;-899,883
+1080;AMBEV S/A;Receitas Financeiras;2T/2016;136,108
+1081;AMBEV S/A;Despesas Financeiras;2T/2016;
+1082;AMBEV S/A;Resultado Não Operacional;2T/2016;0
+1083;AMBEV S/A;Receitas;2T/2016;0
+1084;AMBEV S/A;Despesas;2T/2016;0
+1085;AMBEV S/A;Resultado Antes Tributação/Participações;2T/2016;
+1086;AMBEV S/A;Provisão para IR e Contribuição Social;2T/2016;-533,547
+1087;AMBEV S/A;IR Diferido;2T/2016;306,964
+1088;AMBEV S/A;Participações/Contribuições Estatutárias;2T/2016;0
+1089;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;2T/2016;0
+1090;AMBEV S/A;Part. de Acionistas Não Controladores;2T/2016;-126,367
+1091;AMBEV S/A;Lucro/Prejuízo do Período;2T/2016;
+1092;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;1T/2016;0
+1093;AMBEV S/A;Deduções da Receita Bruta;1T/2016;0
+1094;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;1T/2016;
+1095;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;1T/2016;
+1096;AMBEV S/A;Resultado Bruto;1T/2016;
+1097;AMBEV S/A;Despesas Com Vendas;1T/2016;
+1098;AMBEV S/A;Despesas Gerais e Administrativas;1T/2016;-533,638
+1099;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;1T/2016;0
+1100;AMBEV S/A;Outras Receitas Operacionais;1T/2016;488,332
+1101;AMBEV S/A;Outras Despesas Operacionais;1T/2016;-102,236
+1102;AMBEV S/A;Resultado da Equivalência Patrimonial;1T/2016;7,449
+1103;AMBEV S/A;Financeiras;1T/2016;
+1104;AMBEV S/A;Receitas Financeiras;1T/2016;322,152
+1105;AMBEV S/A;Despesas Financeiras;1T/2016;
+1106;AMBEV S/A;Resultado Não Operacional;1T/2016;0
+1107;AMBEV S/A;Receitas;1T/2016;0
+1108;AMBEV S/A;Despesas;1T/2016;0
+1109;AMBEV S/A;Resultado Antes Tributação/Participações;1T/2016;
+1110;AMBEV S/A;Provisão para IR e Contribuição Social;1T/2016;-638,854
+1111;AMBEV S/A;IR Diferido;1T/2016;302,471
+1112;AMBEV S/A;Participações/Contribuições Estatutárias;1T/2016;0
+1113;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;1T/2016;0
+1114;AMBEV S/A;Part. de Acionistas Não Controladores;1T/2016;-127,128
+1115;AMBEV S/A;Lucro/Prejuízo do Período;1T/2016;
+1116;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;4T/2015;0
+1117;AMBEV S/A;Deduções da Receita Bruta;4T/2015;0
+1118;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;4T/2015;
+1119;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;4T/2015;
+1120;AMBEV S/A;Resultado Bruto;4T/2015;
+1121;AMBEV S/A;Despesas Com Vendas;4T/2015;
+1122;AMBEV S/A;Despesas Gerais e Administrativas;4T/2015;-653,252
+1123;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;4T/2015;0
+1124;AMBEV S/A;Outras Receitas Operacionais;4T/2015;749,461
+1125;AMBEV S/A;Outras Despesas Operacionais;4T/2015;-139,532
+1126;AMBEV S/A;Resultado da Equivalência Patrimonial;4T/2015;-1,625
+1127;AMBEV S/A;Financeiras;4T/2015;
+1128;AMBEV S/A;Receitas Financeiras;4T/2015;458,431
+1129;AMBEV S/A;Despesas Financeiras;4T/2015;
+1130;AMBEV S/A;Resultado Não Operacional;4T/2015;0
+1131;AMBEV S/A;Receitas;4T/2015;0
+1132;AMBEV S/A;Despesas;4T/2015;0
+1133;AMBEV S/A;Resultado Antes Tributação/Participações;4T/2015;
+1134;AMBEV S/A;Provisão para IR e Contribuição Social;4T/2015;602,026
+1135;AMBEV S/A;IR Diferido;4T/2015;
+1136;AMBEV S/A;Participações/Contribuições Estatutárias;4T/2015;0
+1137;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;4T/2015;0
+1138;AMBEV S/A;Part. de Acionistas Não Controladores;4T/2015;-104,796
+1139;AMBEV S/A;Lucro/Prejuízo do Período;4T/2015;
+1140;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;3T/2015;0
+1141;AMBEV S/A;Deduções da Receita Bruta;3T/2015;0
+1142;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;3T/2015;
+1143;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;3T/2015;
+1144;AMBEV S/A;Resultado Bruto;3T/2015;
+1145;AMBEV S/A;Despesas Com Vendas;3T/2015;
+1146;AMBEV S/A;Despesas Gerais e Administrativas;3T/2015;-569,504
+1147;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;3T/2015;0
+1148;AMBEV S/A;Outras Receitas Operacionais;3T/2015;465,555
+1149;AMBEV S/A;Outras Despesas Operacionais;3T/2015;-64,937
+1150;AMBEV S/A;Resultado da Equivalência Patrimonial;3T/2015;-274
+1151;AMBEV S/A;Financeiras;3T/2015;-316,637
+1152;AMBEV S/A;Receitas Financeiras;3T/2015;316,283
+1153;AMBEV S/A;Despesas Financeiras;3T/2015;-632,92
+1154;AMBEV S/A;Resultado Não Operacional;3T/2015;0
+1155;AMBEV S/A;Receitas;3T/2015;0
+1156;AMBEV S/A;Despesas;3T/2015;0
+1157;AMBEV S/A;Resultado Antes Tributação/Participações;3T/2015;
+1158;AMBEV S/A;Provisão para IR e Contribuição Social;3T/2015;-525,99
+1159;AMBEV S/A;IR Diferido;3T/2015;-308,71
+1160;AMBEV S/A;Participações/Contribuições Estatutárias;3T/2015;0
+1161;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;3T/2015;0
+1162;AMBEV S/A;Part. de Acionistas Não Controladores;3T/2015;-116,209
+1163;AMBEV S/A;Lucro/Prejuízo do Período;3T/2015;
+1164;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;2T/2015;0
+1165;AMBEV S/A;Deduções da Receita Bruta;2T/2015;0
+1166;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;2T/2015;
+1167;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;2T/2015;
+1168;AMBEV S/A;Resultado Bruto;2T/2015;
+1169;AMBEV S/A;Despesas Com Vendas;2T/2015;
+1170;AMBEV S/A;Despesas Gerais e Administrativas;2T/2015;-536,985
+1171;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;2T/2015;0
+1172;AMBEV S/A;Outras Receitas Operacionais;2T/2015;494,447
+1173;AMBEV S/A;Outras Despesas Operacionais;2T/2015;-385,107
+1174;AMBEV S/A;Resultado da Equivalência Patrimonial;2T/2015;2,584
+1175;AMBEV S/A;Financeiras;2T/2015;-362,988
+1176;AMBEV S/A;Receitas Financeiras;2T/2015;229,262
+1177;AMBEV S/A;Despesas Financeiras;2T/2015;-592,25
+1178;AMBEV S/A;Resultado Não Operacional;2T/2015;0
+1179;AMBEV S/A;Receitas;2T/2015;0
+1180;AMBEV S/A;Despesas;2T/2015;0
+1181;AMBEV S/A;Resultado Antes Tributação/Participações;2T/2015;
+1182;AMBEV S/A;Provisão para IR e Contribuição Social;2T/2015;-380,469
+1183;AMBEV S/A;IR Diferido;2T/2015;211,232
+1184;AMBEV S/A;Participações/Contribuições Estatutárias;2T/2015;0
+1185;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;2T/2015;0
+1186;AMBEV S/A;Part. de Acionistas Não Controladores;2T/2015;-82,185
+1187;AMBEV S/A;Lucro/Prejuízo do Período;2T/2015;
+1188;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;1T/2015;0
+1189;AMBEV S/A;Deduções da Receita Bruta;1T/2015;0
+1190;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;1T/2015;
+1191;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;1T/2015;
+1192;AMBEV S/A;Resultado Bruto;1T/2015;
+1193;AMBEV S/A;Despesas Com Vendas;1T/2015;
+1194;AMBEV S/A;Despesas Gerais e Administrativas;1T/2015;-521,515
+1195;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;1T/2015;0
+1196;AMBEV S/A;Outras Receitas Operacionais;1T/2015;508,894
+1197;AMBEV S/A;Outras Despesas Operacionais;1T/2015;-49,918
+1198;AMBEV S/A;Resultado da Equivalência Patrimonial;1T/2015;2,409
+1199;AMBEV S/A;Financeiras;1T/2015;-481,695
+1200;AMBEV S/A;Receitas Financeiras;1T/2015;290,25
+1201;AMBEV S/A;Despesas Financeiras;1T/2015;-771,945
+1202;AMBEV S/A;Resultado Não Operacional;1T/2015;0
+1203;AMBEV S/A;Receitas;1T/2015;0
+1204;AMBEV S/A;Despesas;1T/2015;0
+1205;AMBEV S/A;Resultado Antes Tributação/Participações;1T/2015;
+1206;AMBEV S/A;Provisão para IR e Contribuição Social;1T/2015;-923,455
+1207;AMBEV S/A;IR Diferido;1T/2015;-28,029
+1208;AMBEV S/A;Participações/Contribuições Estatutárias;1T/2015;0
+1209;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;1T/2015;0
+1210;AMBEV S/A;Part. de Acionistas Não Controladores;1T/2015;-152,18
+1211;AMBEV S/A;Lucro/Prejuízo do Período;1T/2015;
+1212;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;4T/2014;0
+1213;AMBEV S/A;Deduções da Receita Bruta;4T/2014;0
+1214;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;4T/2014;
+1215;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;4T/2014;
+1216;AMBEV S/A;Resultado Bruto;4T/2014;
+1217;AMBEV S/A;Despesas Com Vendas;4T/2014;
+1218;AMBEV S/A;Despesas Gerais e Administrativas;4T/2014;-627,473
+1219;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;4T/2014;0
+1220;AMBEV S/A;Outras Receitas Operacionais;4T/2014;762,859
+1221;AMBEV S/A;Outras Despesas Operacionais;4T/2014;-162,916
+1222;AMBEV S/A;Resultado da Equivalência Patrimonial;4T/2014;4,165
+1223;AMBEV S/A;Financeiras;4T/2014;-587,49
+1224;AMBEV S/A;Receitas Financeiras;4T/2014;344,702
+1225;AMBEV S/A;Despesas Financeiras;4T/2014;-932,192
+1226;AMBEV S/A;Resultado Não Operacional;4T/2014;0
+1227;AMBEV S/A;Receitas;4T/2014;0
+1228;AMBEV S/A;Despesas;4T/2014;0
+1229;AMBEV S/A;Resultado Antes Tributação/Participações;4T/2014;
+1230;AMBEV S/A;Provisão para IR e Contribuição Social;4T/2014;42,471
+1231;AMBEV S/A;IR Diferido;4T/2014;-859,414
+1232;AMBEV S/A;Participações/Contribuições Estatutárias;4T/2014;0
+1233;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;4T/2014;0
+1234;AMBEV S/A;Part. de Acionistas Não Controladores;4T/2014;-120,675
+1235;AMBEV S/A;Lucro/Prejuízo do Período;4T/2014;
+1236;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;3T/2014;0
+1237;AMBEV S/A;Deduções da Receita Bruta;3T/2014;0
+1238;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;3T/2014;
+1239;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;3T/2014;
+1240;AMBEV S/A;Resultado Bruto;3T/2014;
+1241;AMBEV S/A;Despesas Com Vendas;3T/2014;
+1242;AMBEV S/A;Despesas Gerais e Administrativas;3T/2014;-394,205
+1243;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;3T/2014;0
+1244;AMBEV S/A;Outras Receitas Operacionais;3T/2014;404,289
+1245;AMBEV S/A;Outras Despesas Operacionais;3T/2014;-28,465
+1246;AMBEV S/A;Resultado da Equivalência Patrimonial;3T/2014;3,043
+1247;AMBEV S/A;Financeiras;3T/2014;-221,091
+1248;AMBEV S/A;Receitas Financeiras;3T/2014;345,085
+1249;AMBEV S/A;Despesas Financeiras;3T/2014;-566,176
+1250;AMBEV S/A;Resultado Não Operacional;3T/2014;0
+1251;AMBEV S/A;Receitas;3T/2014;0
+1252;AMBEV S/A;Despesas;3T/2014;0
+1253;AMBEV S/A;Resultado Antes Tributação/Participações;3T/2014;
+1254;AMBEV S/A;Provisão para IR e Contribuição Social;3T/2014;-857,676
+1255;AMBEV S/A;IR Diferido;3T/2014;475,888
+1256;AMBEV S/A;Participações/Contribuições Estatutárias;3T/2014;0
+1257;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;3T/2014;0
+1258;AMBEV S/A;Part. de Acionistas Não Controladores;3T/2014;-76,946
+1259;AMBEV S/A;Lucro/Prejuízo do Período;3T/2014;
+1260;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;2T/2014;0
+1261;AMBEV S/A;Deduções da Receita Bruta;2T/2014;0
+1262;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;2T/2014;
+1263;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;2T/2014;
+1264;AMBEV S/A;Resultado Bruto;2T/2014;
+1265;AMBEV S/A;Despesas Com Vendas;2T/2014;
+1266;AMBEV S/A;Despesas Gerais e Administrativas;2T/2014;-354,94
+1267;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;2T/2014;0
+1268;AMBEV S/A;Outras Receitas Operacionais;2T/2014;377,841
+1269;AMBEV S/A;Outras Despesas Operacionais;2T/2014;-45,167
+1270;AMBEV S/A;Resultado da Equivalência Patrimonial;2T/2014;2,3
+1271;AMBEV S/A;Financeiras;2T/2014;-298,002
+1272;AMBEV S/A;Receitas Financeiras;2T/2014;275,869
+1273;AMBEV S/A;Despesas Financeiras;2T/2014;-573,871
+1274;AMBEV S/A;Resultado Não Operacional;2T/2014;0
+1275;AMBEV S/A;Receitas;2T/2014;0
+1276;AMBEV S/A;Despesas;2T/2014;0
+1277;AMBEV S/A;Resultado Antes Tributação/Participações;2T/2014;
+1278;AMBEV S/A;Provisão para IR e Contribuição Social;2T/2014;-286,887
+1279;AMBEV S/A;IR Diferido;2T/2014;30,916
+1280;AMBEV S/A;Participações/Contribuições Estatutárias;2T/2014;0
+1281;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;2T/2014;0
+1282;AMBEV S/A;Part. de Acionistas Não Controladores;2T/2014;-48,724
+1283;AMBEV S/A;Lucro/Prejuízo do Período;2T/2014;
+1284;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;1T/2014;0
+1285;AMBEV S/A;Deduções da Receita Bruta;1T/2014;0
+1286;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;1T/2014;
+1287;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;1T/2014;
+1288;AMBEV S/A;Resultado Bruto;1T/2014;
+1289;AMBEV S/A;Despesas Com Vendas;1T/2014;
+1290;AMBEV S/A;Despesas Gerais e Administrativas;1T/2014;-443,428
+1291;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;1T/2014;0
+1292;AMBEV S/A;Outras Receitas Operacionais;1T/2014;292,404
+1293;AMBEV S/A;Outras Despesas Operacionais;1T/2014;-60,693
+1294;AMBEV S/A;Resultado da Equivalência Patrimonial;1T/2014;7,87
+1295;AMBEV S/A;Financeiras;1T/2014;-368,821
+1296;AMBEV S/A;Receitas Financeiras;1T/2014;207,567
+1297;AMBEV S/A;Despesas Financeiras;1T/2014;-576,388
+1298;AMBEV S/A;Resultado Não Operacional;1T/2014;0
+1299;AMBEV S/A;Receitas;1T/2014;0
+1300;AMBEV S/A;Despesas;1T/2014;0
+1301;AMBEV S/A;Resultado Antes Tributação/Participações;1T/2014;
+1302;AMBEV S/A;Provisão para IR e Contribuição Social;1T/2014;-955,092
+1303;AMBEV S/A;IR Diferido;1T/2014;403,236
+1304;AMBEV S/A;Participações/Contribuições Estatutárias;1T/2014;0
+1305;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;1T/2014;0
+1306;AMBEV S/A;Part. de Acionistas Não Controladores;1T/2014;-50,162
+1307;AMBEV S/A;Lucro/Prejuízo do Período;1T/2014;
+1308;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;4T/2013;0
+1309;AMBEV S/A;Deduções da Receita Bruta;4T/2013;0
+1310;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;4T/2013;
+1311;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;4T/2013;
+1312;AMBEV S/A;Resultado Bruto;4T/2013;
+1313;AMBEV S/A;Despesas Com Vendas;4T/2013;
+1314;AMBEV S/A;Despesas Gerais e Administrativas;4T/2013;-981,291
+1315;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;4T/2013;0
+1316;AMBEV S/A;Outras Receitas Operacionais;4T/2013;
+1317;AMBEV S/A;Outras Despesas Operacionais;4T/2013;-177,716
+1318;AMBEV S/A;Resultado da Equivalência Patrimonial;4T/2013;7,43
+1319;AMBEV S/A;Financeiras;4T/2013;-801,174
+1320;AMBEV S/A;Receitas Financeiras;4T/2013;615,221
+1321;AMBEV S/A;Despesas Financeiras;4T/2013;
+1322;AMBEV S/A;Resultado Não Operacional;4T/2013;0
+1323;AMBEV S/A;Receitas;4T/2013;0
+1324;AMBEV S/A;Despesas;4T/2013;0
+1325;AMBEV S/A;Resultado Antes Tributação/Participações;4T/2013;
+1326;AMBEV S/A;Provisão para IR e Contribuição Social;4T/2013;-910,939
+1327;AMBEV S/A;IR Diferido;4T/2013;-197,098
+1328;AMBEV S/A;Participações/Contribuições Estatutárias;4T/2013;0
+1329;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;4T/2013;0
+1330;AMBEV S/A;Part. de Acionistas Não Controladores;4T/2013;0
+1331;AMBEV S/A;Lucro/Prejuízo do Período;4T/2013;
+1332;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;3T/2013;0
+1333;AMBEV S/A;Deduções da Receita Bruta;3T/2013;0
+1334;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;3T/2013;
+1335;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;3T/2013;
+1336;AMBEV S/A;Resultado Bruto;3T/2013;
+1337;AMBEV S/A;Despesas Com Vendas;3T/2013;
+1338;AMBEV S/A;Despesas Gerais e Administrativas;3T/2013;-352,498
+1339;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;3T/2013;0
+1340;AMBEV S/A;Outras Receitas Operacionais;3T/2013;425,245
+1341;AMBEV S/A;Outras Despesas Operacionais;3T/2013;-37,874
+1342;AMBEV S/A;Resultado da Equivalência Patrimonial;3T/2013;3,892
+1343;AMBEV S/A;Financeiras;3T/2013;-495,138
+1344;AMBEV S/A;Receitas Financeiras;3T/2013;185,364
+1345;AMBEV S/A;Despesas Financeiras;3T/2013;-680,502
+1346;AMBEV S/A;Resultado Não Operacional;3T/2013;0
+1347;AMBEV S/A;Receitas;3T/2013;0
+1348;AMBEV S/A;Despesas;3T/2013;0
+1349;AMBEV S/A;Resultado Antes Tributação/Participações;3T/2013;
+1350;AMBEV S/A;Provisão para IR e Contribuição Social;3T/2013;-370,166
+1351;AMBEV S/A;IR Diferido;3T/2013;-462,3
+1352;AMBEV S/A;Participações/Contribuições Estatutárias;3T/2013;0
+1353;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;3T/2013;0
+1354;AMBEV S/A;Part. de Acionistas Não Controladores;3T/2013;-49,296
+1355;AMBEV S/A;Lucro/Prejuízo do Período;3T/2013;
+1356;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;2T/2013;0
+1357;AMBEV S/A;Deduções da Receita Bruta;2T/2013;0
+1358;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;2T/2013;
+1359;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;2T/2013;
+1360;AMBEV S/A;Resultado Bruto;2T/2013;
+1361;AMBEV S/A;Despesas Com Vendas;2T/2013;
+1362;AMBEV S/A;Despesas Gerais e Administrativas;2T/2013;-400,331
+1363;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;2T/2013;0
+1364;AMBEV S/A;Outras Receitas Operacionais;2T/2013;339,73
+1365;AMBEV S/A;Outras Despesas Operacionais;2T/2013;-44,917
+1366;AMBEV S/A;Resultado da Equivalência Patrimonial;2T/2013;97
+1367;AMBEV S/A;Financeiras;2T/2013;-268,989
+1368;AMBEV S/A;Receitas Financeiras;2T/2013;130,032
+1369;AMBEV S/A;Despesas Financeiras;2T/2013;-399,021
+1370;AMBEV S/A;Resultado Não Operacional;2T/2013;0
+1371;AMBEV S/A;Receitas;2T/2013;0
+1372;AMBEV S/A;Despesas;2T/2013;0
+1373;AMBEV S/A;Resultado Antes Tributação/Participações;2T/2013;
+1374;AMBEV S/A;Provisão para IR e Contribuição Social;2T/2013;-630,949
+1375;AMBEV S/A;IR Diferido;2T/2013;114,066
+1376;AMBEV S/A;Participações/Contribuições Estatutárias;2T/2013;0
+1377;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;2T/2013;0
+1378;AMBEV S/A;Part. de Acionistas Não Controladores;2T/2013;-758,399
+1379;AMBEV S/A;Lucro/Prejuízo do Período;2T/2013;
+1380;AMBEV S/A;Receita Bruta de Vendas e/ou Serviços;1T/2013;0
+1381;AMBEV S/A;Deduções da Receita Bruta;1T/2013;0
+1382;AMBEV S/A;Receita Líquida de Vendas e/ou Serviços;1T/2013;10,617
+1383;AMBEV S/A;Custo de Bens e/ou Serviços Vendidos;1T/2013;0
+1384;AMBEV S/A;Resultado Bruto;1T/2013;10,617
+1385;AMBEV S/A;Despesas Com Vendas;1T/2013;0
+1386;AMBEV S/A;Despesas Gerais e Administrativas;1T/2013;-2,337
+1387;AMBEV S/A;Perdas pela Não Recuperabilidade de Ativos ;1T/2013;0
+1388;AMBEV S/A;Outras Receitas Operacionais;1T/2013;0
+1389;AMBEV S/A;Outras Despesas Operacionais;1T/2013;-159
+1390;AMBEV S/A;Resultado da Equivalência Patrimonial;1T/2013;0
+1391;AMBEV S/A;Financeiras;1T/2013;1,875
+1392;AMBEV S/A;Receitas Financeiras;1T/2013;1,875
+1393;AMBEV S/A;Despesas Financeiras;1T/2013;0
+1394;AMBEV S/A;Resultado Não Operacional;1T/2013;0
+1395;AMBEV S/A;Receitas;1T/2013;0
+1396;AMBEV S/A;Despesas;1T/2013;0
+1397;AMBEV S/A;Resultado Antes Tributação/Participações;1T/2013;9,996
+1398;AMBEV S/A;Provisão para IR e Contribuição Social;1T/2013;-158
+1399;AMBEV S/A;IR Diferido;1T/2013;-70
+1400;AMBEV S/A;Participações/Contribuições Estatutárias;1T/2013;0
+1401;AMBEV S/A;Reversão dos Juros sobre Capital Próprio;1T/2013;0
+1402;AMBEV S/A;Part. de Acionistas Não Controladores;1T/2013;0
+1403;AMBEV S/A;Lucro/Prejuízo do Período;1T/2013;9,768
